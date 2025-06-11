@@ -1,0 +1,133 @@
+.detail-graphique {
+    .card {
+        border: none;
+        box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+        margin-bottom: 1rem;
+
+        .card-header {
+            background-color: #e8f5e9;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+            padding: 1rem;
+
+            h5 {
+                margin: 0;
+                color: #2e7d32;
+            }
+        }
+
+        .card-body {
+            padding: 1.25rem;
+
+            .chart-container {
+                background-color: #fff;
+                border-radius: 0.5rem;
+                padding: 1rem;
+                margin-bottom: 1rem;
+
+                .chart-header {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-bottom: 1rem;
+
+                    h6 {
+                        margin: 0;
+                        color: #2e7d32;
+                    }
+
+                    .chart-actions {
+                        display: flex;
+                        gap: 0.5rem;
+                    }
+                }
+
+                .chart-content {
+                    min-height: 300px;
+                    position: relative;
+
+                    .chart-loading {
+                        position: absolute;
+                        top: 50%;
+                        left: 50%;
+                        transform: translate(-50%, -50%);
+                        text-align: center;
+                        color: #6c757d;
+                    }
+                }
+            }
+
+            .chart-filters {
+                background-color: #f8f9fa;
+                border-radius: 0.5rem;
+                padding: 1rem;
+                margin-bottom: 1rem;
+
+                .filter-group {
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 1rem;
+                    margin-bottom: 1rem;
+
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
+
+                    .filter-item {
+                        flex: 1;
+                        min-width: 200px;
+
+                        label {
+                            display: block;
+                            margin-bottom: 0.5rem;
+                            color: #495057;
+                            font-weight: 500;
+                        }
+
+                        select, input {
+                            width: 100%;
+                            padding: 0.375rem 0.75rem;
+                            border: 1px solid #ced4da;
+                            border-radius: 0.25rem;
+                            background-color: #fff;
+                        }
+                    }
+                }
+            }
+
+            .chart-legend {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 1rem;
+                margin-top: 1rem;
+
+                .legend-item {
+                    display: flex;
+                    align-items: center;
+                    gap: 0.5rem;
+
+                    .legend-color {
+                        width: 12px;
+                        height: 12px;
+                        border-radius: 2px;
+                    }
+
+                    .legend-label {
+                        font-size: 0.875rem;
+                        color: #6c757d;
+                    }
+                }
+            }
+        }
+    }
+
+    .btn-icon {
+        width: 32px;
+        height: 32px;
+        padding: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        margin: 0 0.25rem;
+    }
+}

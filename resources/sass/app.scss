@@ -1,0 +1,25 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Buttons
+@import 'components/buttons';
+
+// custom styles
+@import 'timeline';
+
+@import 'components/table-unlock';
+
+
+// Immeubles
+@import 'immeubles/style';
+@import 'immeubles/details/components/donneesGenerales';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+// Headers
+@import 'headers/admin_header';

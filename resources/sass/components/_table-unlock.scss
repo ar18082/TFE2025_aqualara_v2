@@ -1,0 +1,56 @@
+// Styles pour les inputs de table
+.table-input,
+.tableInfoApp-input {
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    padding: 4px;
+    transition: all 0.3s ease;
+}
+
+// Styles pour les boutons de titre de colonne
+.col-title-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    color: inherit;
+    font-weight: bold;
+
+    &:hover {
+        color: #0d6efd;
+    }
+}
+
+// Styles pour les colonnes déverrouillées
+.column-unlocked {
+    background-color: #e8f5e9 !important;
+    border-bottom: 2px solid #4caf50 !important;
+
+    button {
+        color: #2e7d32;
+    }
+}
+
+// // Styles pour les cellules avec inputs déverrouillés
+// td:has(.table-input:not([readonly])),
+// td:has(.tableInfoApp-input:not([readonly])) {
+//     background-color: #e8f5e9;
+   
+
+// // Styles pour les inputs déverrouillés
+// .table-input:not([readonly]),
+// .tableInfoApp-input:not([readonly]) {
+//     background-color: white;
+//     border: 1px solid #4caf50;
+//     border-radius: 4px;
+// }
+
+// Styles pour les colonnes en lecture seule
+.readonly-column {
+    background-color: #f5f5f5;
+    font-weight: bold;
+    cursor: not-allowed;
+} 

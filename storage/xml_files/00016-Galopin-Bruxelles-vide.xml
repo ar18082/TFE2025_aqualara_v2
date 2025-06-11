@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><Road Version="6.2">
+  <SavedBy SwName="Tools Supercom" SwVersion="2.5.1"/>
+  <SaveDate>2020-11-06T10:16:55.799+01:00</SaveDate>
+  <Group Caption="REZ">
+    <Info/>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">23932206</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:15:15.228+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">23932207</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:15:15.481+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">23932208</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:15:15.570+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">23932209</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:15:15.572+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726094</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:15:21.967+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726074</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:15:29.375+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+  </Group>
+  <Group Caption="1ET">
+    <Info/>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">25131978</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:01.703+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">25131979</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:01.731+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">23932210</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:15.103+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726093</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:21.727+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726075</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:29.846+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726073</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:39.015+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726076</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:45.886+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+  </Group>
+  <Group Caption="2ET">
+    <Info/>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726077</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:55.551+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726078</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:55.570+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726079</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:55.734+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726080</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:55.736+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726081</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:55.738+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+    <Task Agent="http://www.sontex.com/WirelessMBus-read" Caption="Lecture wM-Bus" Status="ToDo">
+      <Info/>
+      <Param>
+        <RadioAddr ManufacturerId="SON">24726082</RadioAddr>
+      </Param>
+      <LastActionDate>2020-11-06T10:16:55.740+01:00</LastActionDate>
+      <Data/>
+      <EncryptedData/>
+    </Task>
+  </Group>
+</Road>

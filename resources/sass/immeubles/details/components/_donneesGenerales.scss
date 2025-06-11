@@ -1,0 +1,204 @@
+// Variables communes
+$primary-color: #2c3e50;
+$secondary-color: #34495e;
+$accent-color: #3498db;
+$success-color: #2ecc71;
+$white: #ffffff;
+$border-color: #e0e0e0;
+$text-color: #333;
+$text-muted: #666;
+$font-family-base: 'Poppins', sans-serif;
+
+// Mixins communs
+@mixin section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid $border-color;
+}
+
+@mixin section-title {
+    font-family: $font-family-base;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: $primary-color;
+    margin: 0;
+}
+
+@mixin form-group {
+    margin-bottom: 1.25rem;
+}
+
+@mixin form-label {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: $text-color;
+    margin-bottom: 0.5rem;
+}
+
+@mixin form-control {
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    border: 1px solid $border-color;
+    border-radius: 0.375rem;
+    transition: border-color 0.2s ease-in-out;
+
+    &:focus {
+        border-color: $accent-color;
+        outline: none;
+        box-shadow: 0 0 0 2px rgba($accent-color, 0.1);
+    }
+
+    &:disabled {
+        background-color: #f8f9fa;
+        cursor: not-allowed;
+    }
+}
+
+@mixin button-base {
+    padding: 0.375rem 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    border-radius: 0.375rem;
+    transition: all 0.2s ease-in-out;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+@mixin button-variant($background-color, $text-color) {
+    background-color: $background-color;
+    color: $text-color;
+
+    &:hover {
+        background-color: darken($background-color, 10%);
+    }
+}
+
+// Styles communs pour les sections de données générales
+.detail-section {
+    background: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+
+    .section-header {
+        @include section-header;
+
+        .section-title-container {
+            flex: 1;
+            margin-right: 1rem;
+
+            .section-title {
+                @include section-title;
+                margin-bottom: 0.25rem;
+            }
+
+            small {
+                display: block;
+                color: $text-muted;
+                font-size: 0.875rem;
+            }
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 0.25rem;
+
+            .btn-edit,
+            .btn-save {
+                @include button-base;
+                padding: 0.375rem 0.75rem;
+                font-size: 0.875rem;
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+
+                i {
+                    font-size: 0.875rem;
+                }
+            }
+
+            .btn-edit {
+                @include button-variant($primary-color, $white);
+            }
+
+            .btn-save {
+                @include button-variant($success-color, $white);
+            }
+        }
+    }
+
+    .form-group {
+        @include form-group;
+
+        label {
+            @include form-label;
+        }
+
+        input, select {
+            @include form-control;
+        }
+    }
+
+    .row {
+        margin-bottom: 1.5rem;
+    }
+
+    .alert {
+        border-radius: 0.375rem;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        font-size: 0.875rem;
+    }
+}
+
+// Styles spécifiques pour les sections de pourcentages et montants
+.percentage-section, .amount-section {
+    background: #f8f9fa;
+    border-radius: 0.375rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+    .section-header {
+        border-bottom: none;
+        margin-bottom: 1rem;
+
+        h5 {
+            font-size: 1rem;
+            font-weight: 600;
+            color: $secondary-color;
+            margin: 0;
+        }
+    }
+}
+
+// Styles pour les groupes de radio
+.radio-group {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+
+    .form-check {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+
+        input[type="radio"] {
+            margin: 0;
+        }
+
+        label {
+            font-size: 0.875rem;
+            color: $text-color;
+            margin: 0;
+        }
+    }
+} 

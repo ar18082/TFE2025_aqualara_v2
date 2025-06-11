@@ -1,0 +1,173 @@
+.detail-info-appart {
+    .card {
+        border: none;
+        box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+        margin-bottom: 1rem;
+
+        .card-header {
+            background-color: #e3f2fd;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+            padding: 1rem;
+
+            h5 {
+                margin: 0;
+                color: #1565c0;
+            }
+        }
+
+        .card-body {
+            padding: 1.25rem;
+
+            .apartment-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                gap: 1.5rem;
+                margin-bottom: 1.5rem;
+
+                .apartment-card {
+                    background-color: #fff;
+                    border-radius: 0.5rem;
+                    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+                    overflow: hidden;
+                    transition: transform 0.2s ease-in-out;
+
+                    &:hover {
+                        transform: translateY(-2px);
+                    }
+
+                    .apartment-header {
+                        background-color: #f8f9fa;
+                        padding: 1rem;
+                        border-bottom: 1px solid #dee2e6;
+
+                        .apartment-number {
+                            font-size: 1.25rem;
+                            font-weight: 600;
+                            color: #212529;
+                            margin-bottom: 0.5rem;
+                        }
+
+                        .apartment-status {
+                            display: inline-flex;
+                            align-items: center;
+                            padding: 0.25rem 0.5rem;
+                            border-radius: 0.25rem;
+                            font-size: 0.875rem;
+                            font-weight: 500;
+
+                            &.occupied {
+                                background-color: #d4edda;
+                                color: #155724;
+                            }
+
+                            &.vacant {
+                                background-color: #f8d7da;
+                                color: #721c24;
+                            }
+                        }
+                    }
+
+                    .apartment-body {
+                        padding: 1rem;
+
+                        .info-group {
+                            margin-bottom: 1rem;
+
+                            &:last-child {
+                                margin-bottom: 0;
+                            }
+
+                            .info-label {
+                                font-size: 0.875rem;
+                                color: #6c757d;
+                                margin-bottom: 0.25rem;
+                            }
+
+                            .info-value {
+                                font-size: 1rem;
+                                color: #212529;
+                                font-weight: 500;
+                            }
+                        }
+
+                        .tenant-info {
+                            background-color: #f8f9fa;
+                            border-radius: 0.25rem;
+                            padding: 1rem;
+                            margin-top: 1rem;
+
+                            .tenant-name {
+                                font-weight: 600;
+                                color: #212529;
+                                margin-bottom: 0.5rem;
+                            }
+
+                            .tenant-contact {
+                                font-size: 0.875rem;
+                                color: #6c757d;
+                            }
+                        }
+                    }
+
+                    .apartment-footer {
+                        padding: 1rem;
+                        background-color: #f8f9fa;
+                        border-top: 1px solid #dee2e6;
+                        display: flex;
+                        justify-content: flex-end;
+                        gap: 0.5rem;
+                    }
+                }
+            }
+
+            .apartment-filters {
+                background-color: #f8f9fa;
+                border-radius: 0.5rem;
+                padding: 1rem;
+                margin-bottom: 1rem;
+
+                .filter-group {
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 1rem;
+                    margin-bottom: 1rem;
+
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
+
+                    .filter-item {
+                        flex: 1;
+                        min-width: 200px;
+
+                        label {
+                            display: block;
+                            margin-bottom: 0.5rem;
+                            color: #495057;
+                            font-weight: 500;
+                        }
+
+                        select, input {
+                            width: 100%;
+                            padding: 0.375rem 0.75rem;
+                            border: 1px solid #ced4da;
+                            border-radius: 0.25rem;
+                            background-color: #fff;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .btn-icon {
+        width: 32px;
+        height: 32px;
+        padding: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        margin: 0 0.25rem;
+    }
+}

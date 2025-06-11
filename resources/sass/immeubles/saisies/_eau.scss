@@ -1,0 +1,53 @@
+#saisieEau {
+    .table {
+        th {
+            vertical-align: middle;
+            text-align: center;
+            &.bg-info, &.bg-danger {
+                color: white;
+            }
+        }
+
+        td {
+            vertical-align: middle;
+            padding: 0.5rem;
+            
+            input, select {
+                border: none;
+                background: transparent;
+                width: 100%;
+                text-align: center;
+                
+                &:read-only {
+                    background: #f8f9fa;
+                }
+                
+                &.unlocked {
+                    background: #fff;
+                    border: 1px solid #ced4da;
+                }
+                
+                &:focus {
+                    outline: none;
+                    box-shadow: none;
+                }
+            }
+        }
+    }
+
+    .table-responsive {
+        margin-bottom: 1rem;
+    }
+
+    .form-group {
+        margin-bottom: 0;
+    }
+
+    tfoot {
+        background: #f8f9fa;
+        
+        td {
+            padding: 1rem;
+        }
+    }
+} 

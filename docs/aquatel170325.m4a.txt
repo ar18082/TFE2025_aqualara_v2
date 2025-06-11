@@ -1,0 +1,1249 @@
+Transcribed with Cockatoo
+
+
+0:00:00
+Et donc on voit les calculs. Ouais, par exemple, le calcul... Tu veux que je te le revoie, peut-être que tu modifies ce qu'on a reçu? Tu peux... C'est un Word? Ouais, tu peux me l'envoyer. Tu peux me le montrer et me l'envoyer après.
+
+0:00:24
+Je vais t'envoyer... je te montre par rapport à un dossier c'était quand? c'était le 6 si il marche 700 marchait la station. 700 à combien? 702 je crois.
+
+0:00:54
+Je vais essayer de faire un peu plus de travail. Et je vais t'envoyer tes affaires. Alors, je vais essayer de recevoir un peu de service..........
+
+0:02:02
+et c'est ce que tu voulais. Normalement, il y a ceci, ceci, ceci, ceci, c'est la colonne, mais... Il y a la corde à boite. Je ne sais pas pourquoi. Sinon, tu vois la différence quand tu montes.
+
+0:02:16
+Ouais. Alors ici, je vais juste les envoyer... Ouais. Donc... Donc moi j'envoie ceci en consommation de combustible qui se divise en une part de chauffage et une part de chauffage. Le principe de calcul c'est de prendre ce que j'envoie pour le chauffage de l'eau,
+
+0:03:30
+et de le multiplier par la consommation totale de l'immeuble. Ça me donne un montant consommé par combustible pour la matière chauffante qui est déduit de ça. Tu reconnais le moteur chauffant, la répartition dans les consommations. Ça je me rappelle. Voilà. T'as aussi la distinction ici entre eau chaude, t'as 1,3455, mais...
+
+0:03:51
+Ici, par contre, y'a pas le prix de l'eau, je crois. Toutes les fois que j'ai les consommations d'eau froide, même quand j'ai les consommations uniquement d'eau chaude, il y a la matière première de l'eau chaude de l'eau froide ici qui a... a recodé dans le programme, qu'on a recodé ici, et qui a ajouté... qui a dessiné à ça, et en repris, il se met ici. A eau froide, pas à zéro.
+
+0:04:16
+Ici, la ligne en dessous. Mais, t'as une partie... pour l'eau chaude, t'as aussi de l'eau froide. Hum hum. Donc quand on encode un coup pour l'offre, mais il fallait que je te trouve un livre où tu comprennes. Je dois savoir qu'ici il n'y a pas d'offre. Je vais regarder l'extra du sable.
+
+0:04:31
+Il y en a plein que t'as fait aujourd'hui, mais t'as offert en deux choux. Quoi? Parce qu'on a pas dit à notre fille. Elle va être bébée, elle va être doucement. Oups, c'est moi ça. C'est nos rêves lui.
+
+0:04:40
+C'est sûr que je l'ai terminé dans le baie-compte? Oui, mais il est pas encore bien. Non, la nuit. il n'y en a pas un partout aujourd'hui que c'est au froid de chaud et des chauffeurs? il n'y a pas d'électricité dans le bain? bah donne du lourd!
+
+0:05:19
+bah donne du lourd dans ce foyer là! 2628 ça tends que de la montée, ça tends que de la prise. Ici le rizor pour la répartition de l'eau froide. Ici le rizor de Montaure, il est redivisé par la consommation au chaud plus au froid. Ce qui me donne le prix de l'eau froide.
+
+0:06:55
+Et pour l'eau chaude on a codé A20, mais tu vois que t'as pas A20 en eau chaude, en fait t'as A20 plus le prix de l'eau froide. C'est ça. Donc ici, il y avait 719,02 avec le signe, moi je vais pas d'abord faire ça, je vais faire 542 eau chaude par litre, plus 600W, ça me donne 50% de pression totale. Et c'est ça qui est utilisé pour utiliser le monteur. 1148, ça c'est dans le sens, c'est dans le cas où j'ai encore un monteur, je peux aussi faire Rx. Donc si on te donne 0,62, 0,63 tu le mets là. Si par contre on me donne un montant je le mets là.
+
+0:07:44
+Si c'est à prix minitaire ça multiplie les consommations du décompte. Donc si on fait 0,62 et que t'avais 1 pour l'eau chaude, bah là ça sera 1,82 et qui multipliera ça et qui donnera ça. Ouais c'est ça. Mais du coup dans ce montant aussi, vu que t'as de l'eau froide, y'a pas que du combustible du coup.
+
+0:08:13
+Ouais il faut rajouter l'eau. Voilà. Donc on a nos caloristiques. Mais donc du coup... Je crois que t'as 3 849, c'est pas grave. Du coup quand t'as un compteur d'eau chaude alors tu n'en as pas peut-être si comme dans le
+
+0:08:31
+comme dans le décompte que j'avais avant mais du coup il faut que tu calcules tu calcules pas que le combustible a calculé l'eau aussi ça dépend ici dans le décompte d'avant il nous demandait de répartir une étoile combustible on en peut on en peut pas pas obligé d'accorder à plus d'eau froide, s'il y a que l'eau chaude. Ouais, de toute façon, si c'est zéro, ça restera zéro. Si même t'en codes zéro. Ah ben si, si je l'en code réel ou je l'en code zéro.
+
+0:08:58
+Ouais, là t'en codes là, t'en codes zéro. Ouais, dans l'autre avant, c'était zéro et zéro. Voilà, on répartissait que la partie combustible, c'est ça. C'est ça. OK. Si j'avais voulu, j'aurais pu avoir des prix pour la matière chaude, pour l'eau froide,
+
+0:09:12
+qui auraient été ajoutés, ou même un montant qui aurait été ajouté au prix de la matière chauffante. Ouais donc là, ouais c'est ça. Donc ici, tu vois que on avait 3849 euros à zéro à répartir. Donc on décide, donc Steve chauffage et chauffe-eau. 21 plus 3200 à 0,20. Il dépasse ce montant là, non?
+
+0:09:40
+Il dépasse, parce que j'ai la partie d'eau froide dans l'eau chaude. La partie d'eau froide correspond à 0,62, soit 3,4, 0,4 par hectolitre. Mais du coup, l'eau chaude, le prix de la matière chauffante, multiplié par 540, plus 3200 ça fait bien 3 849 ça pour l'immeuble, pour ce prix là, ça fait que chaque personne paye ça, pour chaque calorimètre pardon.
+
+0:10:27
+C'est les frais TR. Et il y a les virgules, parce qu'il y a un calorimètre par exemple dans un radiateur dans un couloir et il est en commun pour tout le monde c'est ça? ça dépend. par exemple? c'est un truc qui est dans le commun quoi. si jamais il y a un commun oui. mais t'as pas forcément des communs. c'est pourquoi il y a une virgule alors. dans quel contexte on... ici si tu fais 12,207, pour un oeuf, et là ici tu as deux contours d'eau chaude et deux contours d'eau froide pour le total de ça, ah oui les frais TR c'est le prix du calorimètre que tu mets là en dessous pour dans le chauffage c'est le calorimètre et dans l'eau c'est le compteur d'eau, c'est le prix du compteur de l'eau levé ou le prix de l'allocation du compteur.
+
+0:11:40
+Qui est multiplié par ce qu'il va payer chaque... Et ce prix là, ce montant là, tu le mets toi à la main ou il est quelque part? C'est nous qui le calculons et qui le prône. Donc ça, ça va être par défaut à 0 et puis toi quand tu le modifies... Bah, je crée la première année, il est à 0, mais après tout le monde doit recoder quelque chose... Il doit le reprendre sur le prix de l'année passée? Il doit réafficher le prix du dernier décompte? Bah, c'est toujours contre ça que ça va...
+
+0:12:13
+C'est toujours contre ça que ça va... Ok. Bah, si je regarde, je vois pas... Bah, en fait, ici le décompte, là, il est clôturé. Je crois, tout 2024. Mais...
+
+0:12:20
+J'ai l'impression que c'est le nombre de tous les prix qu'on doit recoder. C'est tous les trucs de l'année passée. Vous devez rechercher la dernière valeur qui a été encodée dans le décompte, dans le dernier décompte et la réafficher. Ok. Elle est toujours là.
+
+0:12:43
+Oui, mais je vais la réafficher quand je vais créer. Là, c'est la consultation, mais quand tu vas générer ton nouveau décompte. Quand je vais générer mon nouveau décompte, j'aurai été dans les saisies, je vais recoder tous mes index, et puis alors après j'irai dans le recodeur des montants, et alors là j'ai toujours les montants de l'année précédente mais que je modifie pour que les montants correspondent à l'année pour laquelle je vais faire le décompte. Je sais pas, tu veux peut-être noter.
+
+0:13:14
+Non, non, en fait, ici, en comparaison avec ce qu'on a, du coup, dans le détail, c'est dans le saisie. C'est ici, voilà. Donc ici, pour le moment, il affiche toutes les données de l'année passée. Et puis si tu vas les modifier, quand tu vas les modifier, tu vas enregistrer. Lui, il va créer une nouvelle...
+
+0:13:36
+Il va stocker toutes ces infos-là dans l'ADB. C'est les nouvelles données que tu vas encoder. Et puis au moment où tu vas générer ta saisie, il va récupérer ces deux-là. Au moment où je vais générer ma saisie? Au moment où tu vas générer ton décor. Oui, il va venir chercher les infos que j'ai modifiées.
+
+0:14:14
+Les infos qui sont en codé dans les ordres. Que tu vas rajouter ici, ouais. Comme chaque année, elles ont une vente. Ouais. Ouais, et si tu de toute façon ici tu vas forcément passer dans le truc dans le dans la phase idée Alors tu peux avoir en plus de ça, tu peux avoir des, comme ici, des annexes, donc un
+
+0:14:55
+total de frais annexes pour l'ensemble du meuble. Le libellé qui va apparaître ici, qui a créé une ligne. Attends, pour être sûr, en fait, là tu es... Là tu es dans... dans ta saisie. Là je suis dans le codage des détails.
+
+0:15:24
+Le codage des détails. Dans le codage des montoirs qui sont divisés, qui sont rasselolés. Je crois qu'il y a un truc que... que tu n'as pas bien fait. Ah, qu'est-ce qu'il y a, mon doigt? Je crois que ça aurait été plus simple de faire autrement.
+
+0:15:49
+Je crois qu'en fait, ici, dans les détails, ici ça, on aurait dû faire que de la consultation, tu vois. Si t'as envie de regarder parce que tu as un doute sur quelque chose, tu vois. Et alors quand tu fais CSI, quand tu vas dans CSI, tu tapes ta date, tu vois. Et puis alors après, ben ici, avant d'avoir ces trucs-là, ben t'aurais eu ce truc là. Non je pense pas. Je pense qu'il faut que ça reste comme ça. Comme ça les mains. Non non mais ça va, le truc ici c'est parce que je... Donc ici, ici, maintenant toi tu vas forcément les modifier là dedans. Ah oui toujours. Tout le temps. Bah oui, chaque année quoi.
+
+0:16:50
+Sauf dans le cas où on encode pas de montants. Dans le cas où on encode pas de montants. C'est parce qu'il y a des gens qui nous demandent uniquement les relevés. Y'a pas de montants répartis. C'est-à-dire que ce qui les intéresse c'est juste de relever les compteurs. Ils font la répartition des montants par la suite.
+
+0:17:02
+Eux-mêmes. Ils le font eux-mêmes. Parce que cette partie-là, ce calcul-là, ils le font eux-mêmes. Voilà, nous on encode les sévices. Mais donc ce truc-là il est forcément à zéro tout le temps. Oui c'est ça, il est quand même là. Si j'avais ajouté du montant à côté de mon tord, on a quoi de démontant. Donc ce que je peux faire c'est qu'au
+
+0:17:23
+moment où on génère une nouvelle ligne ici. Il n'y aura pas besoin que ce soit quelque part. On n'utilise jamais le fait que ce soit gardé. Il n'y aura pas besoin de le garder quelque part. Ben si, c'est obligé. Si tu veux pouvoir récupérer la donnée l'année prochaine et te dire l'année passée c'était cette donnée-là, il faut que je la stacke.
+
+0:18:00
+Et alors à ce moment là il faudrait un menu avec les dates à laquelle on a culturé les derniers décomptes avec les montants qui étaient introduits. Non lui il va te donner la dernière année. Ici on est en 25. Toi un fichier là tu vas voir 2024. Donc après toi tu les modifies et au moment où tu enregistres, bah lui il doit créer la ligne 2025 avec
+
+0:18:38
+ces données là, tu comprends? Ouais. Pour qu'il puisse te les afficher. Il faudrait qu'il l'enregistre quand on peut le suivre. Il faudrait qu'il l'enregistre, parce que si ça se met, il va faire une erreur. Tu vois? Si ça se met, quand on va lancer un décompte, on va recoder un montant, si ça se met, vous demandez de modifier le montant par la suite. Donc c'est uniquement à la limite quand on clôture qu'il faut que ça modifie la date qu'il a enregistré. Ou alors quand on enregistre, au final, si même quand on enregistre le montant... Non, après tu peux le remodifier, c'est pas grave ça.
+
+0:19:07
+Alors du coup ça ira de modifié dans le comment tu as fait ouais parce que si c'est la date oui si c'est la date que ça reste à la même date parce que le truc c'est que le logiciel parfois que tu veux à des comptes à une certaine date il sait pas à quelle date tu vas calculer le décompte c'est ça je m'en prie toi tu as codé ta fiche mais le logiciel il sait pas autrement à quelle date c'est quand tu lui as reçonné le décompte tu sais qu'à cette date là il va te chercher les trucs que tu as recodé dans les CV tu vois si je fais mon décompte?
+
+0:19:40
+c'est ça mon problème mais comment est ce que... je comprends pas comment est ce que... c'est la joie de mon métier quand tu vas lancer ton décompte
+
+0:19:52
+il faut dire qu'il était fiché le montant que tu as recodé donc ça veut dire que ce montant là ils sont enregistrés déjà si tu dois les récupérer au moment du décompte ils sont là ils sont déjà enregistrés en fait ouais mais quand tu lances ton décompte à la date avec laquelle tu le lances il faut que ça soit là que ça...
+
+0:20:12
+qu'il sache que c'est ces données là les dernières données que t'as enregistré qu'il doit enregistrer à cette date là à cette date là lui il va chercher la dernière que t'as enregistré ouais mais du coup c'est au moment où tu encodes ta date. Non, mais de l'autre côté, il n'y a pas de date. Non, mais il doit juste aller chercher ce que tu as encodé dans les choix ici.
+
+0:20:36
+Si tu es pour l'instant encodé, il doit aller te rechercher. Ouais. Mais si tu ne sais pas le faire sans qu'il y ait une date. Mais je suis en train de chercher en fait. Tu vois, comment est-ce qu'on fait. Mais c'est ça le problème que j'ai.
+
+0:20:49
+C'est qu'en fait, maintenant j'ai tous les endroits où on peut mettre toutes les informations que t'as besoin. Et le truc c'est que maintenant j'ai toutes les informations sur les bras, mais je sais pas où je dois les mettre pour les stocker, pour que quand tu fasses le décompte, ça t'affiche ça correctement. Je sais pas à quel endroit, tu vois, c'est ça que je suis en train de réfléchir. C'est moi qui dois le chercher dans les années à savoir où elles sont stockées
+
+0:21:25
+elles sont stockées dans la base de données mais c'est les tables c'est le nom des tables c'est là quel endroit voilà tu vois ici tu vois voilà j'ai réussi donc tous les champs sont là, je récupère toutes les données sauf que j'ai un peu du mal à analyser et à voir quelle donnée doit aller dans quelle table, dans quel collage. Tu veux qu'on va te suivre? Non merci. Tu vois, je suis un peu bloqué à ce niveau-là.
+
+0:22:10
+C'est ça que j'ai un peu en fait. Bonjour Denis, tu vas bien? Oui, très bien. Je venais aux nouvelles de mon script. Ok. Hop, parfait, parfait, parfait.
+
+0:22:20
+Nickel. Je venais juste de te nouvel, ça va. Parfait. juste une nouvelle ça va parfait tu as besoin de moi? ça va t'as le bonjour d'Antoine aussi
+
+0:22:33
+il est chez nous et ici oui ben oui ça va t'as son bonjour aussi mais
+
+0:22:45
+ça va parfait non mais dès qu'il est déposé là, je lui envoie un petit mail et c'est parfait. J'irai voir ça. Et j'essaierai. Oui. Parfait, merci, à bientôt, salut. Tu veux voir ce que je veux dire?
+
+0:23:26
+Je vous dis pas ce que tu vas... Mon écouteur. Tu vois ce que je veux dire? Non. En fait ce qu'il y a c'est que, c'est pour ça que je t'avais demandé s'il y avait pas moyen d'avoir une version de HTC, de SDC pardon. En fait ce qu'il y a c'est que je récupère toutes les données maintenant.
+
+0:23:41
+Oui. Sauf que j'arrive pas à analyser, enfin j'ai du mal à m'y retrouver, à savoir quelles données vont dans quelles tables, dans quelles colonnes. pour que après quand je génère le décompte, chaque donnée soit au bon endroit et que je puisse utiliser les bonnes données pour faire les bons calculs. Je me doute. Et c'est un peu ça la difficulté que j'ai et en fait je me demande s'il manque pas peut-être des tables ici parce qu'on a DEC, donc je suppose que c'est décompte au solidaire, décompte au solidaire par appartement, décompte en tête, ça c'est...
+
+0:24:26
+J'ai l'ambition de croire que ça doit être quelque chose par là. Sauf que j'ai que des zéros partout. Voilà tu vois en tête j'ai compris que Là ici c'est fin période début période donc ça je suppose que c'est la période de décompte donc c'est à la fin du truc quand il clique sur le décompte il change le statut les mots clôturés à gauche combien de recherche cette table
+
+0:25:28
+la page 1000. Ça fait encore, c'est au moins... On est en page 1000? Oui, nous ne faisons... 900? Oui, nous ne travaillons pas bien.
+
+0:25:40
+Les tout premiers, c'est... ils sont tous bides avec des zéros partout. C'est des... C'est des éruptions de tests, à mon avis. Oh, c'est possible, oui. Et tu vois,
+
+0:25:52
+......... non j'ai un ID. j'ai déjà pas 30, 81 0,39,81 0,39,81
+
+0:26:56
+alors voilà alors là c'est pas... attends parce que toi t'as 7 janvier 25 sauf que moi là c'est une clôture du 11 juillet 23 au 20 juillet 24
+
+0:27:08
+donc c'est celle là oui c'est bien ça c'est bien ça, ça c'est le général. Attends, attends, je vais prendre un individuel. Non, là c'est le général, tu dois rester dans le général. Parce que là j'ai pas d'appartement.
+
+0:27:21
+Oui mais pour avoir ce prix là, je serais pas dans le... Si. Regarde, 1609,44 c'est ça? Oui, oui, oui, mais je suis dans les appartements du coup. Puisque dans... Ah, t'as dit que t'avais des appartement.
+
+0:27:44
+2400 on est au près de 2400. Je suis au poche consommation privée. On est à ça. 2414. Ouais ok. Il va être là aussi.
+
+0:27:56
+Tous les chiffres qu'on a pour le moment. Ah oui à part le... ok. On va rester sur le département. Puisqu'on avait ça qui nous intéressait. On est au 0.0 qui est là. Tout ça est dedans aussi.
+
+0:28:08
+0 qui est là oui quand il fait le calcul c'est là qu'il le trouve non j'ai dit bonjour question je me pose c'est là maintenant dans le sdc c'est ça que c'est de savoir quoi la valeur que je mets là où est ce que je la stock pas là non je me doute ça c'est dans le décompte on est dans les relevés non non non non non non non non non pas d'être qui meurt alors ici dans les clio clichot dans ce qui fait c'est quoi ton ton mais ça tu peux oui dans quelle escale Non, non, mais moi je l'ai vu sur celui-là.
+
+0:29:10
+Le 26, le 28. Oui. On va mettre 0 alors. Non, il doit pas y avoir de serveur. Bien. On va prendre les rues de Roger, le 54, le 50.
+
+0:29:22
+Non. Ah oui, ah oui, je vois. C'est parce que vous voyez. Il y a un petit peu dans le petit chou, on va prendre un petit peu de... C'est un...
+
+0:29:34
+ClearID.... donc si je vais dans le cliché mais on a fait sortir avant ou jamais?
+
+0:30:11
+même si ça reçoit le 28, oui on a vu oui il y en a quoi dans le sondage? il y en a un meilleur? oui 026, 028 il y en a déjà eu à ce moment là
+
+0:30:23
+je crois quelle année? 2023 on a vu jusqu'en août. Jusqu'en août, je crois. 3, 2, 4, 5, 6. Je les ai comptés à l'établi en décembre.
+
+0:31:20
+C'est bizarre de ne pas les retrouver du tout. Il faut se dire aussi que c'est une vieille lérue. Oui, mais tu as combien d'enregistrements? Dans le truc. 300 000 de notre, ça pourrait, ça va pas... C'est un peu juste à mon avis.
+
+0:31:32
+On a plus de battements que ça. On va le faire. On va faire un peu le 36-46. La droite droite droite. Est-ce que le stock se peut quitter? Oui oui.
+
+0:31:48
+Ca aussi? Non. Euh... Il est là. Client. 03646.
+
+0:32:00
+Du coupon. Définition. Sauf à 6040. 6040. 1032 de frais TR.
+
+0:32:12
+Euh... 104665. 1032. je dis je trottinais ici. à quelle date? 19 12 23. dans la base de données. C'est pas 3570? Non ça c'est l'ID, ça n'a rien à voir. C'est 3646. Et ici... C'est juste la 1032.
+
+0:33:15
+Donc ici, on a bien 1046. Ça, c'est cette année. C'est cette année. Donc l'année passée. 1032, c'est ça. Oui, c'est ça.
+
+0:33:38
+Oui, c'est juste là les bénépages. Ok. Mais donc toutes les informations qu'on a dans chauffage ou gaz dans le détail, donc ce sont nos clés. Ce sont les clés. Oui.
+
+0:33:50
+Et donc ici dans DEC, en tête alors, si je ne me trompe pas. C'est les décomptes. DEC, en tête. Ça c'est l'information que tu retrouves... Dans les tableaux. Ici, dans l'entraînement.
+
+0:34:02
+Et ces informations là, elles se remplissent au moment du calcul. Oui. Donc je dois récupérer ces informations là, faire mon calcul, remplir cette table là, et puis après ça va générer le document là. Oui. C'est ça qui manque.
+
+0:34:17
+Si j'avais ce problème là, j'étais bloqué en fait à ce problème là. J'ai dit putain ok, je récupère les informations, mais je suis quoi avec maintenant? On est d'accord mais surtout que oui. Mais comme tu vois si tu n'as pas accès à ça c'est compliqué. On est d'accord, vous avez accès à ça. On a accès à ça.
+
+0:34:35
+Vous avez une session sur le TSE. Oui mais je ne voulais pas rentrer dans un truc et... Vous avez une session sur le TSE avec des essais qui est dessus donc oui. C'est vrai. Je n'y ai pas pensé. Oui.
+
+0:34:47
+Je ne peux pas tout penser. Non, non, non, on est d'accord. Voilà, il y a... Ok, ça va, on a les... Donc on a les endroits où se cacher les informations. C'est ça le plus important. Oui. Et pour la façon dont il va les chercher, donc les relations...
+
+0:35:00
+C'est pas un problème. C'est pas un problème. Mais une fois que les informations sont rentrées là, il faut, quand tu leur donnes les comptes, il faut remplir cette table d'ecs, avec les calculs qui se font à ce moment-là, et puis ça va rechercher pour le relivrer.
+
+0:35:15
+Et donc au final dans la base de données que tu as là, c'est exactement ce que tu dis, dès que tu as une certaine date, il y a pas de loi. Non en fait ici d'abord les données que tu encodes là, dans le détail, il faut les enregistrer. Il faut qu'elles s'enregistrent. Comment est-ce qu'elles sont enregistrées là pour aller à la base de données?
+
+0:35:31
+Comment est-ce qu'elle a la base de données? C'est par exemple à droite là tu avais une date. Comment est-ce que la base de données c'est qu'elle doit régistrer... Ah mais non, dans SDC quand tu changes les infos ici, tu as les changes dans la base de données, mais tu n'as pas l'historique. Tu peux pas retrouver les...
+
+0:35:45
+Là, tu as l'historique quand même. Oui, chaque fois que tu génères à des comptes. Quand tu génères à des comptes... Donc à un moment tu génères, ou alors quand tu clôtures, ça pourrait avoir régistré les... Si tu génères 6 des comptes affiliés du même bâtiment,
+
+0:35:58
+il va créer 6 lignes. OK. Donc à chaque fois la date à laquelle tu as généré le décompte. Oui. Voilà, c'est pas du généreux décompte. Dans les decks, ils génèrent à chaque truc. C'est comme ça qu'on apprend. Non, non, ici, dans le pli-chauffe.
+
+0:36:09
+Oui, le pli-chauffe, ça, il le garde qu'une seule fois. Donc quand tu viens modifier quelque chose ici, Il n'a pas ce que qu'il y a. Il ne stocke pas. Il n'y a pas l'historique. C'est ça qu'il disait tantôt. Tu voulais que ça enregistre quand tu appuies sur enregistrer,
+
+0:36:21
+les données, là, dans le détail qu'il y a. Donc en fait, il faut que ça aille enregistrer. C'est quoi le truc? 36,46.......
+
+0:36:34
+Le dernier des comptes. Si je viens... Si c'était synchronisé. Si je viens à mettre 100% maintenant. Il va changer. Il y a une historique de ça.
+
+0:36:46
+T'as pas besoin d'avoir une historique de ça. Ce serait bien. Ne plus que pour avoir les consommations et avoir un historique des consommations qui ont eu lieu dans le bâtiment. Mais donc ça va attaquer ici, ça va suffire? Non, ici pas. Tu as deux bases de données, si tu veux. On va parler de base de données portable. Donc la base de données, tu as la base de données qui t'affiche ceci, puis tu as la deuxième base de données qui t'affiche ceci.
+
+0:37:10
+En fait, pour que ça se truque bien, il faut voir à chaque fois qu'on dit une table, il faut imaginer que c'est un fichier XL. Tu vois? Dans le fichier XL, il y a toutes les données, et puis tu as le deuxième fichier XL avec deux, et les deux, à un moment donné, nous, avec le code, on sait aller chercher les infos de chacun et les combiner. C'est pas la question, moi, tant que... Oui, ça, tu en fous, c'est pas ton...
+
+0:37:28
+De toute façon, c'est pas ton... C'est pas ton problème. Donc, on dit... Donc, moi, je parlais ici, il y a... Mais si tu veux un historique de ça, c'est le moment de le dire. Je veux un historique de ça.
+
+0:37:38
+Et alors, apportez-nous un mot, je suis sûr. De ça? Oui, de ça. Ben, on avait ça. Ben, il y a dans les essais, il y a. Ben, il y a aussi.
+
+0:37:47
+Oh! Euh, où est-ce qu'il y a la maçonnette? Il ne doit pas y avoir de place, hein. Euh, où est-ce qu'on avait ça? Utilitaire. Utilitaire.
+
+0:37:57
+Non, saisie, consultation. Non, ça va, pardon. C'est quoi? Historique de chauffage. Donc il y a quand même un endroit où il y a des trucs qui devraient être stockés. C'est bien parce que ça on ne l'a pas.
+
+0:38:20
+Il doit certainement être quelque part. Mais pas dans celle-ci du coup. Puisque ça c'est la progresse on a vu dans la progresse il va sans doute y avoir une table qu'on n'a pas été qu'on n'a pas décelé bon il ya des clés monte les un petit peu gentiment non non ça je peux te dire que il n'y a pas il y a pas histoire machin comme ça mais j'ai peut-être créé j'avais à créer j'ai créé historique mais
+
+0:39:00
+j'ai historique qui question d'avoir ces infos là oui maintenant je vais quand même aller voir dans la progresse si il n'y a pas un compte à partir du moment où tu as les prix quantité et tout ça. Oui mais non, oui on l'a. Dans l'autre, dans le trabou, dans DEC, c'est ça qui ressort. Si on lance un décompte sur les mêmes dates, ça va s'exprimer le link qui a existé déjà. Dans DEC Chauffard, je ne savais pas.
+
+0:39:34
+J'ai pas DEC Chauffard. C'est des decks en tête.... et l'autre qui est à la... Prunitaire de la... chauffage prunitaire.
+
+0:40:04
+Et puis il y a un 0.0096... Ouais, 96,50, plus de 41. Ouais, exactement. Donc elles sont bien là, oui. Et à ce moment-là, il l'affiche, oui. Donc dès qu'on génère un décompte, ça vient s'inscrire dedans
+
+0:40:16
+et ça nous fait un historique. Il y a un problème, il a mis... Il a mis... 0,15... Là, vous avez mis... Non, non, quoi?
+
+0:40:43
+Le 64 n'est pas dedans? Par exemple, tu prends la deuxième ligne consommation. Oui. deuxième ligne consommation.... il l'a succédemment récupère oui parce que si tu es si tu fais la cli show et qui
+
+0:41:23
+a consommation et qui prend 1577 comment est ce qu'il te réaffiche maintenant 1577 si tu l'écrase? oui mais je suis sûr qu'on l'écrase mais descend un petit peu sinon on se prend pas la tête je crée je crée la table oui oui on va correctement créer oui je crée la table ce qui est là dedans je le laisse. Je mets toutes les données... Oui, mais... Toutes les données de cli, en fait. Je vais créer une table.
+
+0:42:30
+Je vais mettre History Cli. Je reprends tous les clis d'ici. L'idée, c'est de savoir où c'était pour aller le rechercher et déjà l'emmener dans la table. C'est-à-dire créer. Je vais regarder dans la progresse. On peut pas faire une recherche sur toute la table pour retrouver un exemple ça.
+
+0:42:57
+Qui va quand même être... Pas le loi de Zunig. On peut chercher par exemple quoi? 0.002965... La sagesse de l'Earth. Oui, celui-là. Mais si on peut chercher dans toute la DB... Non, ça c'est pas possible.
+
+0:43:14
+Ben oui, je me doute. Ce serait trop facile. Ce serait trop facile. Non, ici, voilà les consoles. Par exemple, je ne sais pas où il les stocke. Il stocke la console ici, donc il chauffe.
+
+0:43:27
+Mais elle s'écrase. Donc je ne comprends pas comment il peut réafficher après l'année suivante ou l'année avant. C'est qu'il y a un autre enjeu. Ou il leur calcule. Mais je ne vois pas comment. Il lui manque des données.
+
+0:43:39
+Le 6040... Qui est-il? Non, il est pas là. Il est pas dans celle-là. C'est quoi le 6040? Dans l'autre. Dans l'autre table.
+
+0:43:51
+Non mais ça c'est pas un problème. Parce que ça il peut te le recalculer. Parce que c'est l'appartement, il va le rechercher et tu fais, il fait le recalcul mais ça prod ça génère je ne sais pas si ça consomme j'ai fait le chargeur qui est chargé avec je peux l'utiliser ou pas? je sais pas, on essaie de le charger encore, regardez sur la gauche je montre le bureau
+
+0:44:18
+et pour les intégrateurs de mèles, GameMans? quels intégrateurs? ça va je vais ce qu'il faut partout oui c'est le calcul maintenant quand tu vas le faire mais le calcul ce calcul là ça c'est le calcul seulement pour la consommation de chaude mais ça c'est les erreurs... OK. Ça, c'est les erreurs qui doivent être affichées dans une liste,
+
+0:44:56
+qu'on va se déconcher. Au niveau calcul, il y a quoi? Au niveau calcul. C'est pour ça que je t'ai envoyé les words. Comme ça, si tu veux prendre des notes, tu prends des notes en dessous, là. Tu vois, de tous les calculs.
+
+0:45:07
+C'est peut-être plus simple. c'est lequel? 702? c'est ceux que je t'ai envoyé moi évidemment. avec ce point le ça c'est jusqu'au premier c'est les annoncés à décompte ça donc du coup en dessous en fait tu as
+
+0:45:58
+les dates de décompte ici c'est la suite année précédente, du 9.2 au 3.8.23. Tu sais, on m'a envoyé tout le dossier. Clique droit, envoyer vers, fichier compressé, dossier compressé. Tu peux me l'envoyer ce zip là. Normalement, vérifie qu'il est... Non, non, non, ça tu peux me l'envoyer, il est dedans, mais c'est plutôt vérifie qu'il est bien décompressé quelque part.
+
+0:47:18
+Oui, bien. Ok, tu peux supprimer. Et alors ici, en fait là t'as le numéro pareil, t'as le 3 2, et voilà j'ai dépêché de midi. Je vais faire comme ça. Ça marche comme ça, c'est bon. Ah, c'est pas ce que j'ai.
+
+0:47:46
+Alors, on va faire comme ça. Et alors, on va repasser comme ça. Je vais expliquer ce monde là. Il est en deux parties. Une partie pour l'eau chaude qui se croit ça. Donc ici, par exemple, dans celui-là, ils ont la tourée.
+
+0:48:19
+Mais d'ailleurs, il faudrait que je te renvoie ces données-là. Non, ça je les ai. Ouais, ça je les aurais. Ça veut dire que pour faire la distraction entre au chaud et déchauffage, c'est prix de la matière chauffante fois le consommation totale de l'évolution le phare 0 sur cela dans ce cas là c'est 0 62 fois 540 non 1 20 pardon 1 20 fois 540 ça donne un montant moins ouais plus ça ça doit donner le résultat que voilà
+
+0:49:31
+ok le programme il fait dans l'autre sens Il les déduit, c'est à 140 fois Abat. Et il les déduit, ça. Et pour l'eau froide, ça, t'as le montant 719.02. Ici, vu qu'il y a eau froide, eau chaude, ça prend le total des deux.
+
+0:49:47
+Ça redivise le montant recodé par la totalité de T2. Ça, le prix ITF, c'est le prix de T2, qui est ajouté également à 1 eurogrètre, c'est un peu plus chaud. Dans l'autre sens, prix de 1 mètre cube d'eau froide, enfin, prix d'un hectolitre d'eau froide, et bien alors là...
+
+0:50:07
+Si tu mets 0,62... Ça te met 0,62 là, ça fait 0,62 plus 1, ça va être là, et alors ça multiplie les consommations. Il y a quand même toujours le calcul de l'eau chaude, ça c'est vraiment juste l'eau froide, prix ou montant, et l'eau chaude, c'est toujours le prix que tu as encore payé,
+
+0:50:22
+fois la consommation de l'eau chaude, donc il y a des lignes du contenu total ici, qui donnent ça. Les frais TR pour l'eau, c'est ce que tu as en code dans la partie haut, pour le chauffage c'est ce que tu as en code dans la partie chaude. Ici tu verras par exemple normalement quand tu as A en compteur d'eau, dans l'immeuble, souvent tu as A, mais ici le truc c'est que c'est décompteur d'eau.
+
+0:50:39
+En fait tu as A en eau chaude pour X bâtiments, donc tu vas diviser A en eau chaude pour X appartements, c'est 20%. Et donc, nous, c'est là où on code. C'est dans les CIS. 3, 0, 2, chose, 0, 2. Dans tes infos appart, tu as noté les critères.
+
+0:51:00
+Tu notes uniquement le nombre de compteurs. Parce que du coup, tu vois ici, le nombre de compteurs n'est pas égal aux critères. Puisque tu as un compteur dans l'appartement. Tu dois tomber à 1 fois. C'est dans quoi? Dans l'info appart.
+
+0:51:13
+dans la fois partie par trace tu vois là tu mets le nombre de contours d'eau froide, le nombre de contours d'eau chaude, le nombre de contours de gaz mais tu peux pas les frétiller faut pas qu'on aille les modifier dans la partie saisie
+
+0:51:27
+parce que c'est pas parce que tu as un compteur d'eau froide que t'as forcément à frétiller puisqu'il y a des compteurs qui sont partagés non ici il affiche seulement le nombre d'appareils voilà mais donc si tu vas dans la saisie.
+
+0:51:39
+Où? Pourquoi de nouveau chose? Ouais pareil, tu y essors, tu remontes. Non c'est ici. Voilà, nombre de critères. Voilà, le nombre de critères.
+
+0:51:54
+Alors tu vas avoir le nombre de critères au croix, le nombre de critères aux choses aussi. Tu vois, tu as le nombre de critères au croix et le nombre de critères au choux. Et ici tu n'as qu'une fois. de fraté R. Ah oui, mais au moment où l'eau, elle doit s'arrêter dans le mer. Ok, tu me comprends. Au froid et au chaud, il faut que ça se coupe. Comme ça, là ici, tu vois. Froid, chaud. Peut-être l'hiver, t'as pas des frites grises au froid, des frites grises au chaud, t'as des frites grises...
+
+0:52:29
+Oh les deux? Il faut juste avoir la séparation. Donc il faudrait regrouper dans ces i, il faudrait regrouper au chaud et au froid? Ouais, ouais. Ok. Ouais, comme ça tu peux tu pourras le modifier et les mettre.
+
+0:52:58
+Mais ça en fait de toute façon les infos appartement on peut modifier alors que dans les provisions on ne peut pas les modifier. Oui ici. Mais ici en fait les infos appartement on les modifiera dans les CDIs. Parce que tu vas souvent avoir, tu vas peut-être avoir un compteur qui change dans ton appart, qui est supprimé ou qui va ajouter la partie FOAPart, c'est surtout la partie que tu crées l'immeuble, et que tu as beaucoup à faire dans la création de l'immeuble. Quand t'as un compteur qui disparaît dans ton appart,
+
+0:53:28
+ou un compteur qui apparaît dans ton appart, tu vas le créer dans la CDI. D'accord? Il faut que ça communique avec la partie FOAPart. Alors ici, là je vais te montrer ça pour les compteurs, parce qu'ici il y a une consommation d'un compteur et un compteur général, on en avait pour l'autre chose. Il y a divisé en 5, chaque appareil a 5 appareils de consommation. Par contre ici, pour les calobs, tu as des compteurs communs. Tu as une chambre de cotes, et puis après tu as une cuisine, une salle de bain et un WC comme là.
+
+0:53:54
+Tu as les numéros des compteurs, 195, 193, 189, et à mon avis ils réapparaissent à chaque fois. Ils sont dans tous les appartements. Ah c'est ça. Donc t'as toujours un privatif qui correspond à la chambre ou cote et puis alors t'as les commodes. Et donc il paye 1,6 parce qu'il paye 0,2 côté pour celui-là, 0,2 pour celui-là, 0,2 celui-là, ça fait 0,6 plus le A. Le A, oui.
+
+0:54:20
+Alors là, nous, dans la saisie, il faut que le nombre de frais TR soit égal, quant à la somme de tous les prêtés dans la saisie, soit égal à la somme de refours à partie. Dans la provision. Non.
+
+0:55:02
+Si. Si tu as... C'est quelle somme? Si tu as... Si tu as, dans ce cas-là, regarde, tu as 1,6.
+
+0:55:09
+En tout, ça fait 4. Ça fait 5. T'as 5 calories mètres. Il faut que le frais TEL ce soit 5. Là, regarde, remontre un peu. Je fais des calculs bizarres dans ma tête, je me rends compte. Mais non, mais ici, mais s'il n'y a pas, c'est vrai. Non, non, non, non. Remontre moi Avg6, que tu veux me montrer. Ça c'est dans la saisie. Il y a eu un studio qui était pas possible, il y a eu 2,4, donc il n'y a pas les communs.
+
+0:55:46
+Donc ça veut dire qu'on a tous les 1, plus 4,5, donc 8,7, non 8, pardon. 8, plus le dernier, donc on est 9. donc dans ton nombre de compteurs qu'il doit y avoir en main? non, parce que ici j'en ai 1, plus 4, plus 4, plus 4, plus 4, plus 4 donc j'en ai 5 fois 4, 20, plus 1, 21
+
+0:56:19
+il y a des radiateurs qui apparaissent 5 fois dans le décompte ou tu as possiblement ça à diviser je vais voir si je prends ici... Ici j'ai... cet appartement là... 4 calots...
+
+0:56:53
+Mais avec des cités, ici pareil... C'est ça! Et t'as de nouveau 4 calots, t'as de nouveau les mêmes qui apparaissent à chaque fois. Oh, je sais! Donc ça veut dire que dans ton nombre de compteurs à 2 heures par appart, je vais avoir 4 pour le premier, 4 pour le deuxième, 4 pour le troisième, 4 pour le quatrième, 4 pour le cinquième.
+
+0:57:22
+Mais en tout, ce n'est que 9 frais TR. Donc le nombre de frais TR et le nombre de compteurs qui apparaissent dans le véhicule. C'est ça, c'est ce que je voulais dire. Le nombre de frais TR doit être égal à ça par appartement doit être égale au nombre de fratères. Non mais le total des fratères il est mis nulle part dans le dossier. Il n'apparaît nulle part. Il apparaît juste dans le décompte après.
+
+0:57:52
+Nous on ne l'encode nulle part ici. La seule chose qu'on encode c'est le nombre de compteurs par appartement et le nombre de fratères par appartement. Ah oui c'est ça, oui ok. Le total il se fait par le calcul du... Le total il se fait par le calcul du... Le total il se fait par le calcul du...
+
+0:58:08
+Le calcul des... Ok, ouais....des montants et des consommateurs. Le total de tous les côtés. Il apparaît ici mais il est en bas de toute part. Non ça c'est un calcul.
+
+0:58:20
+Et celui-là, enfin ceci, le total du meuble correspond à... 9, 2 et 2. Qui correspond? 12, 12, 12. Ça va faire plus.
+
+0:58:32
+Ici on a répartir la facture qu'on a envoie, donc ce qui était, ça sera fait par les retraités. C'est ça, ça c'est pareil que pour l'eau, ça ne te compte que des consommations qui sont divisées par les frais. C'est le même principe que l'eau? Avec des frais annexes, du coup, tu as ton nombre d'unités de frais annexes, ton libellé de frais annexes, ça va te créer une ligne supplémentaire dans le décompte individuel. Le libellé,
+
+0:59:52
+ça va mettre le libellé ici. Ça va créer une ligne supplémentaire, libellé, le nombre d'unités de frais annexes qui sera ici et puis alors après ça va te donner un prix unitaire qui sera le montant divisé. Le montant divisé par A, A divisé par B, A divisé par B, A divisé par C. Et alors tu vas avoir la quantité par appartement que nous on encode ici. Ici il y a les unités de frais annexes chauffage, et bien les unités de frais annexes tous les appartements auditionnés doivent te donner le nombre d'unités pour le calcul des frais annexes. Ouais donc là t'as 800 ça veut dire que si il y a 5 appartements ça fait 20 dans chaque appartement, tu vas te donner un exprès IVET.
+
+1:00:51
+Ouais, enfin là, c'est toi qui le modifie, mais au total, ça doit faire... Au total, l'appartement est totalement... Et si c'est pas le bon total, du coup, ça doit te retourner une erreur.... qui est dans la liste. Ok. Tu peux le faire pour l'OM, alors à ce moment-là, du coup, toi, code pareil, total de frères annexe, donc l'unité...
+
+1:01:07
+Donc, tu as une unité de frères annexe, le libérier, sauf que tu as une unité de frères annexe, mais l'annexe, c'était déjà posé ici. Unité de frères annexe, donc... Au chaud et au froid, confondu. aux chaux de freins de confondus. Les freins annexes et les freins diverses. Tu peux avoir pareil pour le gaz. Et alors à chaque fois, parce que c'est plus lent,
+
+1:01:35
+les unités de frais annexes, le total, le libéré, le frais arrivé, etc. Chaque poste différent, tu vas avoir ses frais annexes et ses frais libérés. A chaque fois que j'encode un frais annexe, il faut que ça rajoute une ligne dans le décompte? Ouais. Après ça va être libéré. Par contre pour les frais libérés, c'est les frais que tu encodes, tu les encodes directement ici, et si tu veux, tu peux modifier tes paramètres,
+
+1:02:13
+là où tu peux modifier tes frais à l'exaucier, et là alors tu peux encoder un montant, mais du coup, tu peux encoder un montant, ça va venir dans les frais divers quand t'encodes dans la saisie que tu l'as encore dans l'échauffage, dans le gaz à l'explicité ou dans l'eau. Ça va s'additionner, tout va s'additionner. Ça t'amène dans le prix du vrai côté. Ok. Ça additionne, si tu enregistres 20 euros là.
+
+1:02:40
+Et 30 euros de l'autre côté, ça va ajouter 50. Ok. Et alors, dans la colonne, dans le tableau ici, ça peut t'ajouter dans les frais de revenu. Alors à ce moment là, on rajoute nous manuellement, c'est une modification qu'on peut faire, plus rédivisé. C'est par exemple là qu'on encode les frais de serrage, il y a des déménagements autour des frais de serrage. Je dis bon là parce que c'est un frais unique, ça peut arriver d'une fois.
+
+1:03:01
+Par contre t'as des libellés de frais annexes qui peuvent être par exemple une assurance quasi divisée, ben là on a un montant chaque année qui est modifié et qu'on utilise souvent comme ça il est très rempli et il suffit juste de modifier le montant chaque année. C'est un frais unique. On va plus simplement... Ouais, c'est déjà fait.
+
+1:03:28
+C'est déjà fait. Ok. Euh... C'est revenir dans le décompte individuel. Donc ici......
+
+1:03:42
+...... Frais fixe, frais de chauffage, frais eau chaude, frais eau froide. Enfin non, frais eau chaude, frais eau chaude, eau froide. Il s'affichera pas si tu n'as pas d'eau chaude et tu n'as pas d'eau froide.
+
+1:04:00
+C'est ça? Il s'affiche quand même et il se met à zéro. Ouais. Les... Tout ça, tout ceux-là... Tout ce qui sont là, ils s'affichent d'office....automatiquement.
+
+1:04:08
+C'est juste quand il y a des frais annexes... que ça s'affiche, que... Donc ça c'est la base, c'est ça. C'est la base. D'office, t'as ça. Parce que je t'ai pas dit non plus,
+
+1:04:16
+parce que je t'ai pas dit, on avait déjà parlé, les frais fixes, c'est quoi, il y en a, on le désert, on le choisit. Angle dess, angle choisi. Quand il y a une paire de préfixes, on change le pourcentage.
+
+1:04:27
+Je vais avoir besoin de dire que je n'ai pas de quotité. Parce que les quotités sont des... Je vais inventer. J'ai 40% de ce qui reste pour le chauffage. Pas de ça, ça pour le chaud de début. Donc de ça, j'aurai 40% qui serait ici.
+
+1:04:43
+C'est du comment? Qui correspond à 1539. Et j'aurai le... non pas le 1539. C'est du dividi. Ça part de... Celui, quand je le fais comme ça, il prend ce montant là, qui redivise à 4060, sauf que dans le décompte, il n'aura pas ça et ça, puisqu'il a de la dédiction, il a de la moelle chaude.
+
+1:05:24
+Il va prendre 40% de sa moelle chaude, donc de 3200 euros, qui va se répartir en fréfix sur base du total des quotités, qui redivisera le montant de 40% de 3849, Oui c'est les 1,20 fois 540. Et puis il prend 40% de ça. Ça veut dire que tu aurais 1240€ qui serait réparti sur base des quotités. Donc 1240€ sur base des quotités. Donc les quotités c'est 100.
+
+1:06:10
+Ici du coup tu aurais dans les meubles, j'ai avant 100 quotités. Il y a 5 appartements, chaque appartement fait la même taille, donc il a la même quantité. Donc c'est 20. Donc c'est super 20, chacun paye 256 euros. Donc là il y aurait chaque fois 256 euros.
+
+1:06:34
+Ici, donc là tu aurais 100. Ouais, donc là on aurait les 1200 machin qu'on a trouvé. Divisé par 100. Divisé par ceci, ça donnera plus d'unité plus bas. Donc là du coup ce serait plus 3200 euros, ça serait 1900 euros. Si tu additionnes les deux, tu retomberas bien sur 3200 euros, puisque ce serait bien le total de combustible, moins l'eau chaude, qui est divisé par le même nombre d'unités,
+
+1:07:14
+parce que les unités de chauffage, elles ne changent pas. Les consommations sont les mêmes, les relevés sont... Pas les consommations, les relevés d'unités. Ça donnera plus une verticale plus bas, parce qu'elle monte à plus bas. Remultiplié par les consommations de chaque appartement.
+
+1:07:25
+Et lui, par exemple, il paierait, il faudrait diviser 1920 comme si il n'y avait pas de calcul. Ça serait 451. 451, c'est plus tôt que tout. Ça serait 0,01821 plutôt que 0,3. D'accord, ça serait 0,018.
+
+1:07:40
+Et en fait si tu casses, si tu calcules ta puissance de puissance du moteur qui est reparti, ton puissance unitaire, il est de 0,1821. C'est normal. Donc ça fait x 18854. Ça c'est le nombre d'unités
+
+1:07:52
+qu'il a consommées au chauffage. C'est aussi le nombre de unités, la consommation x la puissance du radiateur. Ça c'est les unités de calorimètre que tu lis sur ton calorimètre, mais le total qu'on utilise pour répartir les concentrations.
+
+1:08:07
+Ces données là, c'est des données qui se sont mises, que tu as créées toi? Non, c'est du chauffage. C'est les coefficients. Ah ok, c'est les coefficients. En fait, si tu fais ça, ça va de ça à moins de 133, et tu le donnes ici, mais nous on ne l'affiche pas. Ouais, mais c'est le coefficient, le numère, on va le leur faire.
+
+1:08:25
+Ça, c'est les coefficients qu'on calcule la première année. C'est ça. Et alors? Et donc là, du coup ici ce serait 343 Voilà, plus les 286,05
+
+1:08:38
+qu'on avait donné. Plutôt que de payer 572,34 si c'est le meilleur actif, il lui paye pour son chauffage privé et son préfix. 629,40. Ça change un petit peu le décompte.
+
+1:08:50
+C'est pour équilibrer le décompte en te disant que si jamais il y en a qui consomment réellement tout ce que les radiateurs disent, ils payent quand même une petite part de consommation de l'immeuble, puisque tout n'est pas réparti, ce ne sont pas ces dérelevés. Si ce ne sont pas les radiateurs qui se sont réveillés, 600% de ces parties sont réveillées et ils paient réellement du chauffage. Si tu répartis une partie au préfixe et qu'il y a une autre litre de répartition,
+
+1:09:09
+les relevés... Ouais, ça veut dire que ceux qui consomment un peu plus vont économiser un peu, et ceux qui consomment un peu moins vont payer un peu plus on paye un peu quand même parce qu'il ya aussi ce qui dépassait au tuyau tri va chaudière si quelqu'un consommerait à la peine la chaudière qui est prêt à lui fournir de la chauffage en permanence mais du coup.
+
+1:09:40
+Oui. Et pour ce qui est des comptes communs, là, les comptes à... Euh... Le matériel... Le tableau récapitulatif.
+
+1:09:48
+Ça, ça va être... Je vais le donner. En chef, on va faire avec, pour les frais fixes, s'il y en a. Enfin, les quotités par appartement, les frais fixes, donc. Quantité par appartement, frais fixes. La quantité totale et le re-total avec l'arrivée ici.
+
+1:10:03
+Le numéro, la quantité totale. Les unités, c'est redivisé, tu as 1,2, 4, 5 appartements et le consommation est pratiquement la même. Et alors, tu as le total de 608. Tu retrouves ici, dans l'autre frame, le total de 540, tu retrouves la même chose. Les montants qui correspondent, 986. Ok.
+
+1:10:42
+Ça va. Là, les points de relevé, c'est... Attends, je vais partir, je vais relever le jeu sur le premier frame, il te reste pour p3. Et puis alors après, ça te fait le total de chaque année ouais non c'est le total, si t'as des provisions ça les déduit
+
+1:10:55
+t'as le total qui reste à payer, qui t'as reboursé alors ici il te met à payer il te dit ce qu'il te reste à payer et alors quand tu sais à rebourser il te met donc ça change rien en votre faveur
+
+1:11:07
+je connais ça ouais ouais non j'y connais plus souvent à payer. Pardon? C'est un truc comme salle de votre femme d'oeuvre.
+
+1:11:17
+Oui, oui, ça va. Salle de votre femme d'oeuvre. Allez, à demain, votre journée. Voilà. Ok. Non, c'est pour le calcul.
+
+1:11:24
+Ok. C'est ce qu'il faut avoir. Ça va, j'ai... C'est pas mal le tout. Un autre truc dont on voulait te parler. Je sais pas, tu veux...
+
+1:11:31
+Ah ben, c'est vrai qu'on va enregistrer. On va s'enregistrer. Ouais, ouais, c'est pas joli. Je vais tout transformer en texte. Magnifique. Donc vous voulez parler de tout ce qu'il y a là-dessus.
+
+1:11:44
+Parce que, dans l'anglais, signalétique. Tu as le client qui nous permet de rentrer dans le menu ici. On en a besoin parce qu'on a tout dans la bonne page. Tu as l'anglais signalétique. Appartement. On en a besoin en plus, ce qui nous permet d'écrire les appartements.
+
+1:11:58
+Tu l'auras là. On l'a aussi. par contre là aussi le paramétré ça on ne va plus jamais dans le fond, il ne sera plus dans le pays, ça c'est sur quoi on doit créer les nouveaux clients mais vous n'en avez pas besoin ils ont demandé de choisir, tu vois ici, le pays postal. C'est pas trop bizarre.
+
+1:12:28
+Pas trop bizarre non plus. En fait tu l'as ici. Donc tu rentres dans le client. Hum hum. Il ramme un peu, je pense qu'il est fatigué. Mais je vais en avoir un nouvel ordinateur.
+
+1:12:40
+C'est sûr ça m'a aidé beaucoup en fait ici tu vas dans détails à tous les infos de la page du gérant du gérant du bâtiment si tu me dis que le pays machin si tu modifies là tu fais évoluer, maintenant il y a des données qui vont peut-être rajouter mais en gros tu as tout ici en fait. Mais alors le gérant il a un code. Je l'ai pas en haut à droite.
+
+1:13:21
+Il est où le code du clear? Là c'est quelque chose de... c'est ceci. Le code du clear. Le code ici là. En fait c'est bien. Ceci.
+
+1:13:33
+C'est ceci qui est important. Les codes du gérant oui, là je ne l'ai pas fiché mais on l'a dans les données. Parce que du coup quand on a le même gérant, il faudrait que quand on encode les données du gérant, on puisse encoder le numéro, la table de données que normalement on trouve ici, c'est là que j'arrive, c'est là que je viens d'arriver, t'as les codes de propriété qui vont aussi être important. Donc quand on va entre un numéro, tu vois ici par exemple, nous quand on en retrouve un numéro,
+
+1:14:04
+non, non, c'est déjà fois à part, quand on crée le début. Ça me coupe tout de ouvert. Ici, quand tu crées une propriété, tu peux faire créer le code du propriétaire. Ici dedans? Oui, tu vois, nous aussi, avant quand on les créait, c'était ici.
+
+1:14:24
+Là, moi ici, j'en ai un. Mais quand je fais gestion propriétaire, je crée mon propriété, là j'envers le code du propriétaire. Le code du propriétaire, il va devenir important parce que quand on va donner accès à la plateforme. Ce qui va permettre aux propriétaires d'avoir accès à ces données. Ouais, on les a. Bon, ça tu les as, ouais.
+
+1:14:58
+Mais alors ça veut dire que nous, il nous faut un endroit où... Il faut que je les affiche. Euh... Attends, où est-ce qu'il est ce truc-là? C'est... En fait, ça veut dire que... Les propriétaires c'est de nouveau important, parce que dans un immeuble, si tu as 3 appartements, il faut que le code du propriétaire soit le même dans les 3.
+
+1:15:20
+Sinon il n'aura jamais accès à ces données sur le même compte de la plateforme. Vu qu'un compte sur la plateforme est relié au numéro, au code propriétaire ou au code gérant, s'il n'a pas le même code pour tous ses appartements, il faudra qu'il y ait 3 comptes différents avec 3 codes. Ah oui c'est ça. Et ici tu vois on a le code gérant. Voilà ça c'est ça. Et le code gérant aussi est très importeur pour que si il y a le même gérant pour plusieurs appartements dans le cadre Saïd-Euh pour plusieurs immeubles dans le cadre Saïd-Ik,
+
+1:15:46
+bah il est un code gérant, il se sert de ce code gérant pour se connecter sur la plateforme et il a tous les immeubles qui sont pris chez lui. Pour ça quand on fait créer un nouvel immeuble avec un gérant qui existe déjà, on en colle des immeubles. Ok et ici j'ai proprio normalement quelque part, j'ai un truc avec proprio, attends, faut que je retrouve... Non c'est ça. Mouais, ça c'est le propriétaire d'appartement. Quand c'est un propriétaire d'immeuble, il est considéré comme gérant.
+
+1:16:44
+Ouais, mais c'est ça, t'as la table gérant, gérant immeuble, ici. Voilà, et t'as son code gérant ici. Et en fait, si tu vas dans ce numéro là, et que tu fais dans proprio...... contact...
+
+1:17:07
+et que tu fais code unique, code gérant. les données sont éparpillées, c'est super chiant, normalement il doit être dedans. et que je fais une recherche sur contact where code gérant est égal à ça
+
+1:17:50
+avec des guillemets parce que c'est un tu vois Donc c'est un gérant, il s'appelle, son code unique c'est ça, son nom c'est ça, son adresse c'est ça. Ah oui ok, tu vas avoir dans les comptes. Et le gérant. Ouais parce que c'est ici qu'on les distingue.
+
+1:18:12
+Si c'est AP c'est la propriétaire, si c'est AG c'est le gérant. Ok. Si t'as l'éclairant, avant c'est à la propriété, c'est pareil. Et alors dans définition, automodifier les images imaginaires, je vais utiliser celui-là, A2FSPRL. Je peux aller chercher un code,
+
+1:18:30
+lequel je dois, je vais mettre, pour donner accès à la plateforme, je vais mettre un G de bord pour que j'ai RAW. Ce code-là, plus cette reverb' écrite, slash être attaché à une chiffrée, ça c'est son code qui permet d'avoir accès à la plateforme. Lui il va se créer un compte. Et il est stocké où ce code que tu donnes?
+
+1:19:24
+En fait le gérant il peut nous demander accès à la plateforme, et à court terme il nous demande accès à la plateforme, on lui communique. Mais ça tu le composes comme ça tu lui donnes oral, tu lui écris par mail. Oui par mail. Donc il va avoir G pour faire O, ce code là, slash, le code que nous on le trouve, ce que le PC nous donne.
+
+1:19:47
+Alors grâce à ce code là, lui il va sur le site Acrocel, il met connexion, nom d'utilisateur, il met, qu'est-ce qu'il a fait ça? Non, inscription, voilà, là-bas il fait inscription, nom d'utilisateur, il choisit si on ne met pas son adresse e-mail, il va se mettre l'adresse e-mail, code provisoire. Le mot de passe, c'est le mot de passe que tu lui donnes, la confirmation. Non, le nom d'utilisateur, il met ce qu'il veut. Le mot de passe. Le mot de passe, il met ce qu'il veut.
+
+1:20:12
+C'est lui qui crée son nom d'utilisateur, il confirme son mot de passe, il donne son adresse e-mail, il confirme l'adresse e-mail. Et le code provisoire aussi, c'est ce qu'on lui a donné. C'est ce que j'ai là. auquel il va avoir accès et l'immeuble pour lequel il est gérant. Grâce au code qu'on donne à chaque gérant. Voilà, et donc c'est quand même important qu'on ait accès à la liste des propriétaires et à la liste des propriétaires.
+
+1:21:05
+Ça c'est pour la signalétique. Les saisies on a regardé, les gestions volvées radio. avec STC vous générez des codes provisoires que les cuivres ressortent par courrier pour pouvoir aller sur sur un quoi? sur la plateforme. ça va continuer à fonctionner pendant longtemps maintenant? c'est en pleine discussion. avec le gars de la plateforme. que j'ai revu la semaine passée, jusqu'à ce que quelqu'un n'ait pas vécu par les branches. mais il y a quand même bien avant donné où ce qui va être très important c'est le code.
+
+1:21:40
+Il faut le piquer, c'est ce qui va nous servir à donner accès à la personne et c'est ce qui va faire le lien entre les données qu'on nous pose par énigme. Mais je n'ai pas l'air d'arriver jusqu'au moment où il génère le code provisoire. Non mais il va le code... Bah le code provisoire chez eux, je sais comment il le génère. C'est une connerie. Oui c'est sûr que c'est une connerie parce que s'il t'a dit qu'il faut reprendre ce bout de code là, c'est simplement...
+
+1:22:04
+Voilà ici par exemple, tu vois là... Remelup, c'est le même? C'est pas le même que tantôt? Remelup est le même que tantôt? Non, il ne change jamais. Le code qui est reçu au split, il ne change jamais. Ben du coup ça peut être... C'est genre son ID, tu vois, à l'ADB. Et en fait lui ce qu'il fait c'est que le code qu'il reçoit dans le code provisoire,
+
+1:22:28
+il le split, et alors il va le rechercher par rapport à ce qu'il lui dit, parce qu'il a dit qu'il fallait mettre G, c'est un gérant. Donc ça veut dire que G, ça veut dire que là, t'as contact, par exemple, il va chercher, il lui fait une requête en lui disant, recherche-moi le client qui a G comme truc, le code là, dans ton code gérant et puis slash ça
+
+1:22:56
+et alors après tu prends qui a l'id et si tu le retrouves tu le valides si tu le retrouves et qu'il correspond à ces données là tu le valides tu peux le mettre comme accès vérifié. En fait c'est juste pour cocher dans l'adb c'est juste pour cocher dans le user accès vérifié. Oui mais c'est juste pour que à ce moment là il enregistre sur le web.
+
+1:23:25
+Il est enregistré dans l'adb du web et on lui dit que c'est... Maintenant, comment est-ce qu'il le... Ah oui, non, c'est son ID de gérant. Oui, c'est... Ça, c'est pour les codes qui vont donner accès à la plateforme. Ou c'est peut-être même le password qui génère, les 3 chiffres.
+
+1:23:52
+C'est peut-être même l'ID de l'immeuble. Non, parce qu'un gérant peut avoir plusieurs idées. Donc, c'est mon avis, ça doit être son ID... Mais, on peut peut-être aller regarder reprendre n'importe lequel on est déjà dans plusieurs images? on est mis comme gérant
+
+1:24:16
+le but c'est d'aller voir dans deux images différentes non non non c'est pas ça le but c'est d'aller dans la table gérant Il y a une table de rang. Tu peux aller chercher le code. Ah oui, ok.
+
+1:24:32
+Voilà. Et le code de la table de rang... 00021... Où est-ce que... 790... 790...
+
+1:24:46
+790... C'est le lien qui va nous donner la valeur. C'est l'ensemble. A quoi? A quoi? 10, 0, 9.
+
+1:25:22
+Comment est-ce que j'énerve 790? On va retrouver sûrement dans contact. C'est quoi 21? 21 ça c'est le code Klee, 661 c'est l'ID. Le code Klee c'est le numéro d'image. Le code de l'image, ça c'est bon c'est juste...
+
+1:26:04
+Il est mis comme gérant ou comme propriétaire à quoi? Gérant. Alors, contact. Contact. Et si t'as pas un propriétaire, c'est dans les appartements. Tu vois, t'as la gestion des propriétaires.
+
+1:26:16
+On va dormir les tics. R code gérant égale à quoi 10,090 il est mis comme gérant le 700 machin je sais pas le 700 je sais pas du leçon est-ce qu'il a peut-être une table en plus ou génère à l'accès
+
+1:26:46
+Ou alors il le saurait aléatoirement. Il le garde par exemple. Oui, il doit l'écrire quelque part. Oui, OK. Une fois que tu le génères, si tu ne l'écris pas, c'est plus difficile à transmettre.
+
+1:26:59
+En fait, ça doit lui permettre... Le 790, ça doit sûrement lui permettre d'identifier quelque chose. Gérant? Non, parce que t'as le code gérant. Non, en fait, le code... Ça, à quoi... Je suis sûr que j'ai à quoi ma chère et je suis sûr que ça issue
+
+1:27:43
+il utilise pour cette table si je suis presque sûr pour la table contact rechercher un g qui a le code gérant machin oui et puis alors là il lui attribue un id à mon avis en tout cas il attribue un code qui génère une ligne en disant que vous peut-être pour lui ouvrir les accès à lui dire qu'à l'accès il a droit tu vois c'est une table accès et en fait tu il a le code 790 donc il a un id puis un code unique qui est 790 et on lui donne accès à tel tel tel il a tel rôle et il a droit à voir que ce qui est relié tu vois un truc comme ça ce 790 là il est peut-être lié aussi à ses immeubles.
+
+1:28:27
+Il y aura différents immeubles. Oui mais je suis sûr que c'est l'addition de différents trucs qu'il donne le 790. Je ne sais plus de quoi mais c'est... Et du coup normalement t'apparaît sur les propriétaires. Attends c'est comment le... c'était la télé, attends, ouais code clip ça. et dans la ca... dans le propriétaire, tu sais, on va regarder si y'a pas de propriétaire. bah oui, c'est ce qu'elle vient de faire.
+
+1:29:08
+ouais ouais ouais. faut bien que t'ailles dedans mec. ouais tu vois, je sais. j'ai pas le temps de regarder ce qu'il y avait dedans. Je crois que c'est ça. La définition.
+
+1:29:18
+On ne sait pas dans quel bâtiment il est. On fait pas une recherche sur un bâtiment? Mais ça, moi, je crois que c'est pas encore très grave. Non, non, non, on ne sait pas dans quel bâtiment il est. Mais ça, c'est pas encore très grave, parce que moi, à quoi, le projet,
+
+1:29:30
+à quoi j'ai accès? On ne l'a plus dans la liste, oui. On ne l'immeuble oui il habite dans l'immeuble oui
+
+1:29:46
+il habite dans l'immeuble il habite dans l'immeuble il habite dans l'immeuble il habite dans l'immeuble. Oui. Bah alors, il n'y a pas d'adresse, sauf que ça permet d'aller chercher dans l'immeuble.
+
+1:30:12
+Je suis sûr à certains d'autres trucs, c'est que c'est un truc qu'ils n'ont pas fini ça. C'est un truc qu'ils ont commencé, mais pour ne pas avoir des adresses et ce machin là. Puisque le chauffeur, il chante un truc, c'est pas vrai. là oui il n'y a pas d'adresse parce que si les propriétaires de plusieurs appartements c'est déjà actuel non non il faut être genre le gérant va voir tous ses bâtiments mais si tu es propriétaire d'un appartement dans 45 immeubles 45 appartements mais un
+
+1:30:34
+bâtiment doit pouvoir avoir accès à tes 45 appartements voilà maintenant pour nous maintenant pour nous savoir que un gérant au cas propriétaire et propriétaire dans un immeuble et le même propriétaire avec le même nom dans une autre immeuble. Oui. On le sait quand c'est dans le même immeuble, on ne le sait pas quand c'est dans une autre immeuble.
+
+1:31:21
+Non, ça tu t'en fous. Parce qu'en fait, du coup, ça veut dire que c'est le propriétaire de plusieurs appartements dans lesquels il peut passer. Non, c'est lui qui joue à la manipulation. Parce que dans chaque client, dans chaque immeuble, dans son appartement, ben lui, là dans l'appartement, il y aura un appartement, t'as un truc propriétaire, tu vois.
+
+1:31:37
+Oui, mais écoute, il suffit de mettre les mêmes codes propriétaires. D'accord mais comment ça nous on peut savoir si les propriétaires d'un appartement allié j'ai un... Non, non, non, lui va revenir en disant dit j'ai trois appartements, j'ai trois autres appartements, c'est la vraie, c'est la vraie, c'est la vraie, vous pouvez pas me mettre tous les accès. Si alors on peut le faire mais nous on ne sera pas... On ne le sera pas au départ on est d'accord. Si lui a demandé ses accès mais donc à un
+
+1:32:00
+moment donné quand les gens recevront leur décompte, le but c'était de mettre un petit code à droite, le gars il aura plusieurs codes différents, tant qu'il ne nous demande pas pour avoir le même code pour. Tout sera traduit, on est d'accord. C'est ça, ça je...
+
+1:32:11
+Ils vont offrir la demande pour modifier le propriétaire. Moi, tout à fait. Non, on n'est pas content de savoir. Monsieur Jacques-Marc peut avoir un appartement ici, un appartement à Liège. Mais un autre Monsieur Jacques-Marc peut avoir un appartement
+
+1:32:28
+on voit ce que tu veux qu'on sache nous si jamais il ya le même nom dans deux immeubles différents que c'est la même personne de petit quelqu'un d'entre amis et qui fait peut-être des grandes différentes on peut pas mais c'est pour ça qu'il faut des informations on peut pas non il ya des informations complémentaires non on les aura jamais. Et on ne peut pas les avoir.
+
+1:32:53
+C'est aussi une évene. C'est pas un GPD de les donner. Mais c'est un truc où si la personne vient vers nous en disant ah ben j'ai un appartement, c'est l'appartement là, c'est l'appartement là. Mais ça sent en même temps, c'est peut-être des cas exceptionnels aussi. Oui, oui, on va pas se casser.
+
+1:33:09
+Mais c'est, nous on fera une manipulation pour mettre le même code client. Et hop, il aura accès à tout ce truc par une fois. C'est une chose mais il y a peut-être un peu de gens qui vont avoir de bons défauts, ils vont aller voir dans un autre système, ils regardent encore d'autres choses. Ça va être tellement beau qu'en fait, on va plutôt ne pas s'agacer de ça. Non, je trouve qu'on ne va pas s'agacer du tout.
+
+1:33:29
+Mais donc ici la génération du code là, ça ça va être un truc qu'il faudra voir avec ça. Mais le truc c'est qu'on va commencer à utiliser plus sur la plateforme. On commence doucement, donc c'est quelque chose qu'il va falloir tenir compte. Ça c'est quelque chose qu'on pourra mettre en place... On va déjà commencer par essayer de pouvoir fonder des comptes. Déjà, pouvoir fonder des comptes, ça sera déjà bien dans un premier temps.
+
+1:33:51
+Mais donc du coup, ça c'est tout ce qui est signalétique. Tout ce qui est ici, appartement, paramètres, fournisseurs, pays, codes postaux, on s'en fout. Tu viens de donner... Propriétaires et gérants, vous avez accès aux... Propriétaires et gérants, il va nous falloir une liste avec les codes,
+
+1:34:04
+pour qu'on puisse y avoir accès directement à votre rechercheur. Les CLI, tu nous as donné accès à tout. Les consultations, c'est historique. On verra pendant les autres jours. Gestion relevés radio. Tu voulais qu'on ne puisse pas, enfin, tu voulais qu'on ne doit plus le faire manuellement.
+
+1:34:22
+Tu voulais qu'on a une date dans les CLI, ça nous propose les Alex qui existent dans la base de données à cette date là. Ce qui va être embêtant, c'est que nous, quand on fait les relevés radio, on fait les relevés de la route radio dans laquelle on a fait des modifications peut-être pendant l'année. C'est-à-dire que si on a reposté un cadeau pendant l'année, on a mis un nouveau numéro de cadeau dans la route
+
+1:34:41
+qui n'est peut-être pas au cours de l'ETC. Donc, si t'as soin, tu vas avoir des données qui se trouvent dans la route qu'on voit sur la base de données, qui doivent se retrouver dans l'SDC. Si jamais on ne fait pas l'FAO nous-mêmes... Non.
+
+1:34:57
+Comment est-ce que le programme pourra savoir qu'il y a un numéro de cadeau... Ça va changer avec les... Il faut changer dans l'SDC d'office. On ne changera plus la route, on le changera dans l'SDC, ça modifiera la route. La route va être régénérée à chaque fois. Et la route va les remettre dans le dossier du technicien. Avec la planification. Juste.
+
+1:35:21
+Normalement, ils n'auront même pas besoin d'aller rechercher le truc. Moi, je vais aller rechercher la... Le fichier XML va être parcé avec le parceur de Denis. Il devait me l'envoyer le quart d'heure suivant, il y a une heure et demie. Il va stocker... Il va stocker...
+
+1:35:40
+En fait, ces informations-là, elles sont stockées dans une DB tampon. Moi, je vais consulter la DB tampon. Je les ramène dans cette DB-là. Et ça s'affiche. Oui, je suis d'accord. Mais tu ne peux pas savoir, si nous, on n'en code pas dans le SDC 2.0,
+
+1:35:55
+que tel calorimètre a été repassé par tel calorimètre. Si tu ne le sais pas, tu ne peux pas faire le lien. Euh... Non, il ne va jamais aller chercher. Voilà, donc c'est pour ça qu'il faut qu'on aille quelque part à un endroit. Si tu as, si dans sa table, lui, si dans la table, dans la table tampon,
+
+1:36:15
+le truc, s'il y a le code clé et le référence de l'appartement, je récupère tous les trucs et s'ils n'existent pas, il va les ajouter. Il faut qu'on aille quelque part à un endroit où on peut désactiver un calorimètre pour le remplacer par un autre avec une date de désactivation puisque si on n'a pas encore sorti le décompte au moment où on va remplacer le calorimètre, on va devoir tenir compte de l'ancien index.
+
+1:36:36
+Donc, si on fait sur une ligne du temps, on va dans un immeuble, on va faire le relevé en 2019, 2020, 2021, 2022. D'accord? En 2022, on remplace un calorimètre. Le propriétaire revient en arrière en disant, ah, est-ce que j'ai une modification de frais pour 2019?
+
+1:37:01
+Est-ce que vous pouvez modifier les frais? Si, on modifie les frais, mais il faut que le calorimètre qu'il sert en 2019 reste en 2019 et n'aille pas en réalité modifiée parce que la modification, c'est en 2020. Ou en 2022.
+
+1:37:16
+Tu vois? Non mais ne travaillez que nous, nous, parce que nous c'est comme on a ici pour l'instant. C'est ici, attends je vais reprendre le 2600. Puis, si jamais le calot est... En fait il faudrait qu'en plus d'édoubler un calot.
+
+1:37:32
+Imaginons un peu que le calot du maître de Scott là il est remplacé, parce qu'en cours d'année, parce qu'il est défectueux, il a été remplacé le 31 du 12 2024. 31 du 12 2023. Ça veut dire qu'il nous faudrait 7 000 000 à plus une seconde ligne avec le nouveau cadeau pour prener les consommations des deux. Et à partir de 2024...
+
+1:37:49
+Quand on passe à la date suivante, il ne resterait plus que le second. Celui qui avait été remplacé un cours d'année avant, il disparaît parce qu'il a été remplacé à une certaine date. Ouais, c'est ça, mais c'est ce qui va se passer. Ça veut dire que... ici tu as quand tu vas dans les calots ici pareil si tu le mets en défaut
+
+1:38:11
+tu le mets en défaut et donc lui il va s'afficher oui oui oui mais il faut qu'on puisse le... qu'on aille à visuel de cette date à la date à laquelle on l'a désactivé ça veut dire, voilà imaginons ici, là j'ai deux lignes pour le code, sachant qu'il y en a un à remplacer, il y a un second, le même, le même radiateur, la même situation qui est au même endroit, le même radiateur, il y a juste deux égaleux. Sauf qu'il y en a un qui avait été noté comme remplacé.
+
+1:39:19
+Donc la des suivantes, il disparaît. Et il n'y a plus qu'une deuxième qui reste. Et qui apparaît très rare dans le seconde vieille. C'est comme ça. Quand il y a quelqu'un à remplacer, vous donnez une fenêtre de ligne pour la même direction. Là, on met remplacer et puis c'est comme la des suivantes.
+
+1:39:36
+Il ne reste plus que la ligne d'après, avec la même situation, deux numéros différents, la même coefficient. Nous on le crée. Comment est-ce qu'on peut noter qu'il y a un calot remplacé? Donc, ici c'est ISTA. Quand on sélectionne remplacer, on a un appartement et un état, parce que les calots ont été sélectivés. que là on est activé dans... voilà
+
+1:40:00
+on se doute bien que c'est de là que vous êtes activé le 14 juin 22 ont été remplacés par celle-ci que vous êtes activé le 15 juin 22 voilà, donc c'est juste question de donner un...
+
+1:40:12
+voilà c'est une question logique hein oui oui, ben les émissions calorifiques aussi tout doit correspondre c'est juste que eux ont... Nous on avait dit de remplacer, on a dit de remplacer.
+
+1:40:28
+Voilà, c'est la question de garder une trace à un moment. C'est ce qu'on a dit à la fin. Puisque quand on va gentiment aller dans un appartement, et qu'on va voir qu'on a remplacé 18 fois le calomnium de la cuisine, ça pourrait être par défaut le même calomnium, on dit non, t'as remplacé un calomnium parce qu'il était cassé.
+
+1:40:43
+Par contre, c'est pas possible de remplacer un calomnium. Tu peux pas aller modifier le calomnium sur toi-même, mais il faudrait que par défaut ça crée les mêmes infos, sauf le mieux lequel. Oui mais le but c'est d'avoir un touchage comme ça. Où t'as des dates.
+
+1:40:56
+Et tu vas le chercher où ça? Là je suis chez ISTA donc je vais le chercher chez ISTA. Oui mais nous... Mais je sais mais non mais... Là vous l'avez pas mais là on doit l'avoir. Mais nous on ne le veut pas dans la saisie. Tu le rends pas dans la saisie?
+
+1:41:09
+Tu le rends pas dans la saisie mais on peut l'avoir dans un visuel un moment ou... Regarde ce qu'on disait, c'est que, imagine ici euh... je sais pas quoi dire J'ai toujours les accès de votre formiste tu m'avais donné...
+
+1:41:24
+Je sais pas si tu as vraiment des accès donc... Oui je sais, tu m'as donné quand je les accepte. Ici il faudrait que quand on remplace un cadre au cours d'année on ait pu faire clic droit remplacer
+
+1:41:36
+ça créerait, quand tu crées le statut remplacé, ça créerait une deuxième ligne, automatiquement, vu qu'il a été remplacé au cours d'année. Oui. Par contre, le truc c'est que ça veut dire que s'il a été remplacé au cours d'année, il faut que ça crée une seconde ligne parce qu'il va y avoir deux galopes sur la période. Par contre, on l'a remplacé au moment du relevé.
+
+1:41:53
+Il faudrait que tu le mettes remplacé, mais que ça ne dédouble pas vu qu'il est remplacé. Il faudrait que ça te le remette. Dans tous les cas, quand tu mets un repas, c'est ça qui est une deuxième ligne. A toi, tu peux mettre la deuxième ligne ou pas. Avec les droits, tu peux mettre ce calorimètre ou un truc comme ça sur le vieux. Dans ton cas, c'est ça.
+
+1:42:11
+Et alors, ça pourrait créer une seconde ligne où ça te laisserait le choix en numéro de caloride. Ça pourrait créer la situation à la même coefficient. Oui, ça reprend le même souci. La seconde ligne, la... Mais attends, là, tu parles en...
+
+1:42:25
+Que ce soit au radio ou en visu, c'est la même chose? Oui. Oui. En tout cas, s'il a été remplacé au cours de l'année, imaginons entre le 1er septembre 2023 et le 30 août 2024, aller au 31 décembre 2023,
+
+1:42:38
+il faut que la consommation de l'eau en serre qui a été remplacée soit affichée dans le décompte, puisqu'il a rejeté de la consommation du 1er septembre au 30 avril 2012, et qu'il y aura une ligne suivante, 12. Et bien le lien suivant, ce sera celui qui aurait été placé. Le premier, celui qui a pas de consommation du premier jour 24, 38.
+
+1:42:58
+Alors tu aurais le numéro de cadeau. Chaud libre, tu peux avoir des nouveaux numéros de cadeau. La situation reste la même, parce que tu aurais repassé le cadeau sur le même radiateur. Donc la même pièce. Ton coefficient serait le même. On pourrait le modifier au cas où le radiateur est supprimé.
+
+1:43:15
+Oui, mais en plus il se met à nul. Oui, alors qu'il démarre à zéro. Et alors quand il aurait le statut remplacé, il y aurait une seconde ligne, alors ça veut dire que ce qui est remplacé, même si je m'ai remplacé,
+
+1:43:29
+parce qu'il était remplacé à la fin de l'année. Vous trouvez le début de la carte ici pour le moment. C'est à dire que l'année prochaine, vous voulez te remplacer à la date de supprimer la deuxième ligne qui avait été créée, je n'ai plus qu'une ligne de calots remplacée, l'année suivante il faut que les calots restent, avec un nouveau numéro de calots qu'on est en train de nous modifier.
+
+1:43:55
+Et si jamais je vais avoir remplacé au bout d'année et que ça me crée une seconde ligne, c'est à ce moment là qu'il faudra offrir une date. La date de remplacement. Si la date de remplacement coïncide avec la date de ton décompte, il ne faudra pas que ça se supprime. Si, si ça coïncide, tu ne crées pas de seconde ligne. Si ça ne coïncide pas, tu crées une seconde ligne. Et alors ça veut dire que si tu as une seconde ligne l'année suivante, le statut remplacé doit être supprimé. Oui, le statut remplacé. Oui. Oui. Et alors, tu dois aussi dire qu'on devrait aussi avoir un statut de supprimé.
+
+1:44:29
+Alors à ce moment-là, ça ne te crée pas de seconde ligne. Ça veut dire que ça ne t'arrête pas juste la consommation de ce qu'il y a là dans le décompte, mais alors que là, l'année suivante, peut à partir de ce supprimé à la date de décompte ou même en cours d'année, ça peut être supprimé l'année suivante parce qu'il a été supprimé pendant la période précédente. Et qu'est-ce qu'on fait quand un propriétaire décide de démonter ses 14 radiateurs et qu'il
+
+1:44:46
+les exchange les 14 d'eux dans la maison. On va se débrouiller. On prend l'application. On la jette dans la fonte. On prend le dossier et on le brûle. Tu le prends, tu le mets là,
+
+1:45:00
+pour le tas avec les autres, que t'as pas bouffé. On attend qu'ils rappellent. On attend. Et quand ils rappellent, on dit, on va traiter le dossier, et tu le renvoies plus loin. Dis-moi, tu me le montres à truc.
+
+1:45:12
+Je vous le montre un truc. C'est la modification que nous avons discuté au début. C'est un nouveau type de variateur supprimé. Un nouveau type de variateur supprimé. C'est ce que j'ai dit. Ah, t'en as parlé?
+
+1:45:26
+Le truc c'est que, ici on parlait de remplacer et de supprimer. Parce que le remplacer, on imagine un truc qui est remplacé à la clôture. C'est-à-dire qu'il ne faut pas que ça crée une ligne supplémentaire. Parce que du coup, il y a quel calot qui a été rempassé qui a été rempassé. C'est nous qui nous sommes incommétrés. C'est dit qui t'a envoyé ça?
+
+1:45:52
+C'est le monsieur qui s'occupe de la plateforme. Tous ceux qui sont occupés de la plateforme chez SDC sont gentiment partis. Ou en maladie. Donc ça c'est le... à quoi? La plateforme à quoi? La plateforme à quantelle? Oui, pas celle-là. Celle-là. Celle-là oui. Donc lui-même il ne sait pas comment le code proviseur On s'en fout. À un moment oui mais bon.
+
+1:46:21
+Il me pose autre question et il me propose surtout de mettre sous les décomptes un code QR. Pour avoir accès à ça. Quand on va se décompter, on va demander à la date de désactivation. Quand on va coder une date. Tu valides. Ou tu demanderais à une date.
+
+1:46:41
+Repasser à quelle date. Nouveau, il saurait que ça ne réalise pas bah non je suis d'accord mais lui il cherche une solution rapide puisque ça il peut
+
+1:47:00
+la générer tout de suite c'est de la merde d'accord mais bon voilà à un moment je vais essayer en fait il génère juste un fichier html où il va rechercher
+
+1:47:12
+avec un contrôleur il va rechercher les dernières données et il les affiche. C'est rien à son pur. Moi je veux que les trucs, que les gens doivent s'inscrire sur le site pour avoir au minimum une adresse mail pour les contacter. Oui, c'est aussi de pouvoir avoir des données et que les gens puissent consulter
+
+1:47:30
+et que tu aies moins de papiers à envoyer, que tu puisses envoyer les décomptes et tout ça sur la plateforme. Tout ce qu'ils ont besoin, tu dois l'envoyer sur la plateforme et tu dois les télécharger pour éviter que tu fasses du parquet et que tu payes tes frais Ici on parle d'un appartement c'est pour rendre accessible et donner d'un appartement à une personne
+
+1:47:46
+voilà, donc lui il me propose ça c'est une solution qu'il peut mettre dès demain en place oui, ça ça prend 2h à faire c'est pour les propriétaires. Pour les locataires. C'est ça, mais il y a des lignes quoi.
+
+1:48:10
+Il y aura pour les accès à l'appartement, il n'y a pas de différence entre locataires et propriétaires. Locataires, c'est pas compliqué. Il suffit de rajouter une colonne dans ta table appartement en mettant le code unique du locataire et en mettant un ID en étant un ID de locataire un ID locataire et quand tu rentres dans ton truc tout ce qui est tous les appartements liés tu fais une vue spécifique à ce que tu veux donner accès à ton locataire et voilà. Ben oui. Je vois pas pourquoi générer un QR code machin clinal. Parce que ça va être mieux de générer un QR code, on est d'accord. Ça c'est pas un truc qui me va mais... Ben générer un QR code qui génère ça.
+
+1:49:14
+C'est pour un appartement. Tu tournes les comptes, tu as le QR code. Et tu cliques dessus, tu le scans et tu as accès à ça. À tes derniers relevés d'appareil. Sur quoi? Sur la plateforme? Non.
+
+1:49:25
+Ah non, non. On va juste avoir une image. On va juste avoir une image comme ça en fait. Et donc les gens ils auraient quoi alors? Juste le dernier relevé. Le dernier sur le document il y aurait quoi?
+
+1:49:38
+AQR code AQR code oui Juste le QR Donc les gens qui ne sauraient plus de décompte ils auraient le QR En fait les gens sortent leur décompte et en dessous du décompte il y a le QR Ils calment le QR et ils saignent
+
+1:49:50
+et ils consultent C'est vraiment la même chose que sur le décompte Non parce que si tu as une sorte tu auras les derniers relevés qui ont été calculés C'est vraiment le dernier relevé qui est intégré et qui est préparé.
+
+1:50:02
+Pourquoi est-ce que ça ne vous permettrait pas d'avoir accès à la connexion de la plateforme? Parce qu'il faut créer un compte, là il crée par compte. Tu aurais déjà un compte créé avec ce truc-là, ça te connecte. On est sous accord pour dire que ça ne va pas. Mais voilà, à un moment, c'est ça la solution qu'on propose pour que ça fonctionne dans deux heures. Mais ça t'en as besoin dans deux heures?
+
+1:50:31
+Ce truc là t'en as besoin dans deux heures? Non. Mais non, moi je veux que les gens puissent venir se créer un compte sur la plateforme. En fait, plus tu as des comptes créés, plus tu vas avoir du trafic sur ta plateforme. Et puis plus c'est pratique pour toi. Tu vas économiser du temps et de papier. C'est surtout que la personne qui veut consulter ses données et qui va se connecter en ligne,
+
+1:50:57
+on va pas lui demander de garder son décompte dans un cadre chez lui pour se tenir le QR code tout le temps. Il va avoir une adresse, un nom de séateur, un pass, il se connectera, il aura accès à ses données. Il a même le droit de regarder en deux ans au parrain, voir ce qu'il a mis dans son livre. Peut-être qu'il a une adresse directement à son compte, ou en tout cas au portail de connexion. Oui, mais quand il s'est connecté sur notre plateforme, quand je lui ai montré les trucs, il était horrifié de voir qu'il n'y a rien qui avait suivi dans la chaise.
+
+1:51:26
+Il y a des trucs qu'on a demandé et il n'y a rien qui a été fini. Le truc propriétaire, il n'est pas fini, je suis désolé. Le but c'est où? En tout cas, la Bolle est gérée dans un premier temps. Oui, d'accord, mais bon, tout ce qui est marché public et tout ça, ça demande que tout le monde ait accès à la plateforme. Ce qui est logique. La directive européenne, elle est quand même là pour te dire qu'il faut informer l'occupant de ces consommations.
+
+1:52:02
+C'est pas le gérant, c'est l'occupant. Pas vrai, voilà. Mais oui, je veux lui répondre. Tout ce qui est histoire de statut, soit tu fais cette solution là, temporaire, le temps qu'on se retourne, mais...
+
+1:52:18
+On a personne qui vient à ce planète qui n'a pas accès à la performe comme occupant. Donc... je veux pas une solution qui génère un code comme ça. Je veux que les gens soient obligés de faire ça sur la plateforme et qu'il y ait un utilisateur en notre place. Je veux qu'on crée comme il y a. A propos de ton code Gero, avec ton code Procureur. Mais c'est pour les...
+
+1:52:54
+Oui, oui, et le fait qu'il y a un code Procureur, ça prend deux lignes, là, sous ton écran individuel, c'est quand même pas la mort. Mais... De toute façon...
+
+1:53:05
+Ben même pas forcément un code proviseur ou quoi, c'est juste de pouvoir donner la possibilité, avec le QR Code, ce qui serait bien, c'est que ça t'amène sur la plateforme, sur le registreur, tu t'enregistres et dans le QR code on cache un identifiant qui permet de dire que toi tu es propriétaire de tel bâtiment, tu es locataire de tel appartement, quand tu vas
+
+1:53:28
+t'enregistrer, tu vas voir les trucs, on va te donner l'accès seulement à ces appartements. Il faudrait presque un cuir pour le léger. Mais il faut aussi le léa, il faut aussi un léa truc parce que les gens ils vont sur l'ordi aussi. Ils vont le faire sur l'ordinateur. Pas que sur l'ordi, bah il y a beaucoup qui utilisent Airsmore Phone mais il faut les deux quoi. Bah il y aura le code Airsmore Phone.
+
+1:53:51
+C'est pour ça que pour moi le code provisoire c'est la même ligne pour tout le monde, le truc qui est écrit hors dur que tu as écrit à ton téléphone ou ton ordinateur, tu peux leur coter. Ceux qui vont me sonner, j'ai oublié mon mot de passe. Hum? Ceux qui vont me sonner, j'ai oublié mon mot de passe. Non, il y a un écrit sur le papier.
+
+1:54:10
+Non, il y a un écrit sur le papier que vous ne pouvez pas souligner. Non, mais je n'ai plus accès à cette boîte mail là parce que j'ai perdu mon code. Tu peux aborder le bâtiment et... Pour tout ce qui est statut. Ouais, je t'écoute. Et bien, tu fais compte que ça, ce sont des résumés pour les...
+
+1:54:27
+Parce que comme je te disais, tu vois, en principe... Non, il faut que tu peux me donner... On peut regarder ça. Ben, c'est justement... Donc ici, par exemple, ça c'est pour les erreurs en mode calcul. Ici, il y a une phrase.
+
+1:54:39
+Si index inférieur en KLO ou en ou. Non, j'arrive pas à lire. Message d'erreur, message négatif. En codage négatif, pardon. Ah. Message d'erreur, en codage négatif.
+
+1:55:00
+Message d'erreur, ça veut dire que soit il y avait une erreur de calo, donc en erreur com, ou en erreur 48. Erreur 48, c'est l'erreur de son temps de température, erreur communication, bon, alors peut-être ex. Erreur 128, c'est une erreur 80.
+
+1:55:12
+Oui, donc le message d'erreur, c'est les numéros de 6 heures radio quoi, c'est ça? Ouais, mais du coup ça veut dire que dans les messages d'erreur il y a des encodages qui doivent se faire à l'endroit où il y a le numéro qui a l'heure, et il y a des encodages qui ne leur passent pas. Une erreur 48, ce sont deux températures, il ne faut pas que l'encodage se fasse. On a un index dans le tableau, mais l'encodage ne peut pas se faire dans l'SDLC parce que les certaines conditions de température,
+
+1:55:39
+il y a des fois où les ADEX explosent, puisque la température est défectueuse, donc les caloïds tournent en permanence. Donc à ce moment-là, il ne faut pas que ça se recode automatiquement. Il ne faut pas qu'on puisse laisser passer cette erreur-là. Donc à ce moment-là, il faut qu'on puisse avoir un oeil dessus.
+
+1:55:53
+Et pour avoir un oeil dessus, le recodage ne se fait pas automatiquement. Du coup, quand on leur fait le décompte, on sait qu'on a énervé à ce moment-là. Parce que le recodage est à faire le numéro enfin l'encodage qui se fait dans ce cas là c'est de moins 0,1. Donc t'as un encodage négatif même si ton index avait passé à 0 tu passes de 0 à moins 0,1 du coup t'es en négatif. C'est ça. Ça c'est pour les 48 c'est pareil c'est 80 plus 48 bah 80 c'est plus bien fixé sur son support mais 48 c'est de nouveau erreur de température.
+
+1:56:21
+L'erreur de son température. Sur 28 c'est le 10 sur le 2. Alors comme t'as pas d'index, tu ne peux rien reconnaître ça va connaître tout le moindre 0,1 et après tout le moindre 0,1 donc en radio, si j'ai dans mes erreurs une de ces erreurs là je dois retourner
+
+1:56:37
+celle là et celle là c'est là que tu as l'index 64 et 112 mets ici la croix et tu mets le moindre 0,1
+
+1:56:49
+on va l'arrêter ici le d'erreur, donc c'est ce truc là, ou alors encodage négatif. Pourquoi? Parce que... Ouais si par exemple c'était 1629 et que toi t'as écrit par exemple 1600. Ouais mais du coup imagine, voilà, je vais inventer, je vais créer quelque chose. Ici j'ai 32, je fais l'encodage, imagine c'est de l'encodage manuel. Tu fais une erreur. J'ai un déménagement au 31.03.2024. Je crée ma date, j'ai un déménagement à cette date là. 4
+
+1:57:42
+je crée ma date de déménagement à cette date là. Les index de déménagement que j'ai cherché c'est 233, imaginons que c'était vide, il n'y a pas de consommation Ici par exemple j'avais 3000 3000 sort, j'ai les index du 32.3 pour celle-ci. Mais lui il reprend...
+
+1:58:10
+Mais lui du coup il a démarché chez... Donc si on regarde ces index là, pour le nouvel index du 32.3, c'est les anciens index du 32.8. Ouais ouais. Mais plus que j'ai encodé un index trop élevé au 32.3 avec l'index du 32.8, il est inférieur, j'ai une consommation négative. Ici, ADEX a plusieurs calos pour nous parce qu'on a un causage négatif RD, relevé de déménagement, un causage RD négatif. ADEX trop élevé par rapport à l'ADEX de clôture, une consommation négative, une pente de messager. Ici maintenant de nouveau, ici tu vois je vais supprimer mon relevé au trottoir du 3, j'ai fait une erreur, c'était pas le bon appartement,
+
+1:58:45
+il fallait que je recode, vu que j'ai recodé au trottoir du 3 des ADEX. Il a été venu le chercher en ancienne index. Ici. Ah donc en fait c'était pas les index pour toi. J'avais ça. Maintenant j'ai autre chose parce que j'ai encore encodé au 323-24. Par contre du coup j'ai refait un encodage au 328-23. Que je revalide.
+
+1:59:05
+Ça va me recharger les index de la date juste, de la date moese 1, ça modifie les anciens index de la date plus 1. Mais logiquement, le 3.2.8.23, le décompte a été généré, tu dois pouvoir quand même le modifier. Ici? Ouais. Ouais, si je dois modifier quelque chose, je peux, parce qu'imaginons que quelqu'un revienne deux ans après en me disant « on s'est rendu compte que votre adexe à vie est disparue ». Tu dois pouvoir recalculer ton décompte d'écologique.
+
+2:00:06
+Avec ça comme un fact pour vous, si vous remodifiez ces choses là, il y a une nouvelle facture à refaire. Si le gars décide de me dire, écoutez nous on peut calculer le décompte de la dosse, c'est à dire qu'il est parti, on s'est rendu compte que sans Alex c'était pas bon pour le panneau de la cuisine, on avait mis 1600, mais en fait, au final, c'est 1500. J'ai modifié 1500, je remets les frais qui correspondent à cette année là. Je relance mon décompte pour la période. La date aurait été modifiée pour la cuisine.
+
+2:00:38
+Pour en plus avoir accès à toutes les historiques et pour modifier les historiques. Ça veut dire que c'est les encodages des dates antérieures ou un impact sur les encodages des années futures. Donc ça c'est le message d'adapte. Et alors tu vas aussi avoir, ça c'est quand tu lances un décompte. Quand tu lances un décompte, si jamais tu as encore des index négatifs,
+
+2:01:18
+parce que tu as eu un message d'erreur ou un encodage négatif, pour après avoir un code de réalité, tu dois avoir un message d'erreur. Quand tu as une différence entre le nombre de saisies eau et chauffage. Imaginons que tu as un encodage chauffage, un encodage eau, tu as besoin de déménagement, que tu as encodé dans le chauffage, mais tu as oublié de le faire dans l'eau.
+
+2:01:35
+Il faut dire que le nombre de... Il faut qu'ils disent que ton nombre d'encodage pour la période que tu es intéressé, pour la quelle tu veux faire des comptes, ton encodage il est peut-être de 2 et pour l'autre, ton encodage. Il y a des fois où c'est normal parce que tu n'as pas d'eau. Moi, j'en avais 0.
+
+2:01:47
+Mais non, du coup, je ne peux plus le dire dans ce cas. Il faut qu'ils disent quand le nombre est différent. Mais quand tu as un encodage haut et chauffage. Si par exemple, tu n'as que de l'eau qui arrive dans certains immeubles, puisqu'à présent, ils te mettent un message d'immeuble en te disant que tu n'as qu'un encodage haut et pas d'encodage chauffage.
+
+2:01:53
+C'est normal. des immeubles. Jusqu'à présent, il peut être un emploi en disant que pendant que la chute, c'est normal. Mais il n'a qu'une. Par contre, mais du coup, on pourrait dire à l'application, on pourrait lui dire attention, si dans ce bâtiment là, il y a un compteur d'eau et un contour de chauffage, du coup il faut qu'à chaque fois les deux saisies.
+
+2:02:31
+Il faut qu'il y ait les deux dates, il faut qu'il y ait à chaque fois les mêmes dates dans la saisie d'eau et dans la saisie de chauffage. C'est la cohérence dans les nombres de relevés de la période. Il faut qu'il te le dise. Par contre, si tu n'as pas du tout d'encode à chauffage, tu n'as que de l'encode à chauffage. Non, mais à ce moment-là, dans le nombre de compteurs haut,
+
+2:03:01
+ou dans le nombre de radiateurs, tu seras 0. Ouais. Ouais, tu t'en fous. Ouais. Alors des fois, il y a certains cas où, par exemple, tu as plusieurs appartements où tu vas avoir des compteurs,
+
+2:03:20
+mais d'autres pas. Des compteurs d'eau. Tu as peut-être 5 appartements, il y a peut-être un appartement qui n'a pas de compteur parce qu'il a de l'eau privative, et puis il s'est rencontré avec une soeur
+
+2:03:27
+qui ne veut pas intervenir dans les comptes. À ce moment-là, tu vas avoir des concentrations de chauffage pour tous les appartements, mais peut-être que 4 appartements sur cinq, on est contre deux. Là, il va te le dire. Sabine, quand on a pour les différences entre les
+
+2:03:43
+relevés chauffage et les relevés eau, il faudrait qu'ils nous disent qu'il y a une différence entre les deux, que quand il y a déjà une date qui a existé avec un compteur. Si jamais tu n'as jamais eu d'encodage dans un appartement, tu as zéro compteur, tu n'as jamais une date, tu n'as jamais eu de date il faudrait pas qu'ils te le disent
+
+2:04:04
+oui mais c'est parce qu'on avait dit que quand il y avait que de l'eau et qu'il n'y a pas de chauffage on ne devait plus nous le dire on avait dit non on avait dit qu'il fallait plus faire Oui, non, on peut le laisser. Donc, quand il y a une différence entre eau et chauffage, pas gazer l'extension. Il y a des lits qui sont tellement peu. De toute façon, on ne le saura pas.
+
+2:04:39
+Quand il y a de l'eau et pas de chauffage, il faut qu'ils nous le disent. Par contre, quand il y a du chauffage et pas d'eau, il faut qu'ils nous le dit aussi, non? Il ne dit pas ça. Il nous le dit juste quand il y a au moins un encodagement. Je vais toujours regarder par rapport à ça ce que je peux, ce que je vais réussir à mettre et tout. Et s'il y a des incohérences ou des choses, on les corrige.
+
+2:05:03
+Quand il y a des léctriciers, pourquoi vous ne... Vous êtes intervenus? Oui, dans le sens où il y a des encodages. Il y a des écodages, il y a des écodages. Pour nous, il dit qu'il n'y a pas de chauffage. Par contre, il n'y a que du chauffage.
+
+2:05:18
+Là, il ne peut plus pas. Alors ici, on l'a saisi pour le statut de cadeau. Quand tu as un cadeau remplacé. On était en train de réfléchir
+
+2:05:30
+avec Sabine que quand tu choisis ton statut. Tu choisis ton statut, tu mets le remplacer, tu valides ton index, tu fais une recté du page qui s'ouvre, enfin un pop-up qui te montre la date de remplacement. C'est pour ça on sait qu'on peut désactiver, tu vois, à la date, bon on sait la date où il a été remplacé, et alors vu qu'il est remplacé, ça te crée une seconde ligne, ça c'est quand il serait remplacé au cours d'année. Ok. Ceci, remise à zéro pour égaux. Ceci, c'est un nouveau.
+
+2:06:09
+Donc nous ce serait deux choses différentes. Si je veux bien le... Ouais. nouveau, il devrait être à 0. 0 Recoutage suivant En fait quand ce sera nouveau
+
+2:06:43
+Donc quand on remet un nouveau calorimètre Ouais Donc quand je clique sur remplacer Explicit c'est remplacer Je remplace pas O
+
+2:06:52
+RG au rg 3 passement général on mettrait nouveau je veux bien je les oublie tellement tout le temps que ce matin j'en ai oublié trois......
+
+2:07:28
+... C'est nouveau, c'est qu'il a été remplacé à la date d'encodage. D'accord. À la date du RG. Quand il est remplacé à la date du RG. Je vais remettre ça sur le propre.
+
+2:07:53
+Remplacement à la date de l'encodage. Ça veut dire que... Là, il faut que... Il ne demande pas de date de désactivation parce qu'il s'éveille quand c'est nouveau. Et nous, on va modifier le numéro du... Dans l'appartement, c'est le numéro du nouveau. L'année prochaine, quand on encodera les index, on aura déjà le nouveau numéro.
+
+2:08:59
+Non, mais là, non. Il va rajouter une ligne. Pas quand c'est nouveau. Pas quand c'est à la date du RG. C'est le nouveau, donc on va se mettre au renifle, puisque l'enseigne a quand même toujours été placé... Non, mais si tu mets nouveau il va te créer une ligne en dessous tu auras pas besoin de recoder les index mais il sera tu devras mettre le numéro de calot ou alors une pop-up qui arrive en mettant donne moi le nouveau numéro de calot
+
+2:09:28
+et alors l'année suivante quand on fait la codage il l'affichera direct Qu'est-ce que ça propose? Ça va bien. Ici il me dit que quand on est nouveau, à la place d'aller écrire directement le cadeau sur la ligne où il va y avoir le truc, il y a une pop-up qui va apparaître, il va te demander le nouveau numéro de cadeau,
+
+2:09:52
+tu l'encodes, tu l'enregistres, et l'année suivante il affichera, il enlèvera, par exemple le 820, il va s'effacer, et il s'affichera le numéro. C'est ça le vieux numéro 11 dans la saisie. Le vieux numéro 11 dans la saisie. Et le pop-up plutôt que de demander la date de remplacement c'est un remplacement ou la date de
+
+2:10:10
+on a dit quoi? remplacer, nouveau et supprimer. Donc quand c'est remplacé c'est en cours d'année, il doit te demander la date. Quand c'est nouveau, il va reprendre la date de la clôture. Et il te demandera
+
+2:10:22
+le nouveau numéro de calotte. Et il te demande juste le nouveau numéro de calotte. Et si tu fais remplacer il va te demander la date et le nouveau numéro de callot. Oui, alors le nouveau numéro de callot, quand il va être remplacé, il faudra qu'il crée une ligne supplémentaire.
+
+2:10:34
+Parce que s'il a été remplacé au cours d'année, il y a un deuxième callot qu'il a remplacé. Oui, donc du coup, il faudra mettre des index. Alors à ce moment-là, il faudra encoder le numéro du nouveau callot. Il faudrait que la situation et le coéfficient soient codés automatiquement, se remettre automatiquement dans la seconde ligne parce que c'est le même radiateur et il faudrait qu'on puisse encoder
+
+2:10:53
+le nouvel ADEC. Et il démarre à 0? Le nouveau oui. Donc ce sera OSEN ADEC 0 et O NOUVEL ADEC. Donc il va remplir par exemple dans ce cas là, si tu mets nouveau dans le code là. Donc alors attend on va le faire.
+
+2:11:11
+Donc nouveau ici, je valide, il me demande le nouveau numéro de cadeau parce que je sais bien quand c'est nouveau c'est remplacement à cette date là et que la nuit suivante ce sera un nouveau cadeau. Il me demande la date. Il y a un pop-up qui arrive et tu demande juste le numéro de cadeau. Voilà mais il ne s'affichera nulle part dans ce relevé là puisqu'il n'est pas encore en cours. On va l'enregistrer pour l'année prochaine. Cours. Hop. Remplacer.
+
+2:11:34
+Merde. Hop. Remplacer. Là il m'ouvre un pop-up, il me demande la date de remplacement et il me crée une nouvelle ligne. Il peut bêtement t'ouvrir la pop-up et te donner toutes les infos. Il peut t'ouvrir la pop-up, te demander le numéro de calot, la date, le numéro de calot et le numéro d'index. Une fois que tu enregistres, il va rajouter la ligne directement. Ouais. Quand c'est un nouveau calot, attend je renote comme si je n'avais pas les infos.
+
+2:12:09
+Quand c'est nouveau, demander popup date. Non, quand c'est nouveau c'est popup numéro. Ouais, popup numéro. Quand c'est remplacement c'est popup, c'est date, date, numéro et index, nouvel index. Numéro de Callot.
+
+2:12:30
+Et 0 à l'encodage suivant. C'est vrai que vous allez l'adapter. C'est vrai que vous allez l'encodage suivant. 0 à l'encodage suivant comme nouvel index. C'est juste, 0 à la cotisation. C'est bon comme nouvel adage.
+
+2:12:52
+Ca c'est pour remplacement de la cotisation. Pop-up, nouveau numéro de calo. Remplacer. C'est pop-up, nouveau numéro de calo, date, et nouvel adage.
+
+2:13:04
+Mais Anne-Céline, Mais Anne-Céline, C'est quoi? Pop-up Pop-up date Date, calo
+
+2:13:19
+Nouveau... Numéro... Calo Adex, nouvel adex Et adex à la date de codage Et nouvel adex
+
+2:13:33
+Plus ajouter ligne et ajouter ligne pour dans ces i ajouter ligne dans ces i enfin tu l'auras déjà encodé dans ta popup
+
+2:13:49
+oui oui mais ajouter ligne dans ces i avec un peu aux côtés. Et alors on avait aussi ce fumet. Et alors ça on peut mettre aussi une date. alors ce qu'on peut faire aussi c'est mettre cassé ça c'est pas si les cassés mais qu'on n'a pas fait ni nouveau ni remplacer ni supprimer on met juste qu'il est cassé.
+
+2:14:37
+mais il y en a qui sont ceux que je disais à mon mail qui vont représenter avec des conséquences sur les encodages automatiques. De nouveau on va avoir une conséquence sur l'encodage suivant. Il va juste s'afficher à 0 et redémarrer avec une ligne numéro de callot et adexe à la nouvelle date et le supprimer tu vas avoir à peu près la même situation et une ronde de rappel de la année suivante. Alors casser défectueux, c'est vrai que quand le technicien va sur place, il constate que pour faire un relevé, par exemple, et qu'il voit que ce calorimètre là, il est cassé.
+
+2:16:13
+Ici, on va le mettre voilà, qu'elle remette détaché ou je ne sais plus quelle erreur tu vas vouloir mentionner. Et qui les a eu les erreurs? C'est Julien qui me les a eu. Avec Oscar d'ailleurs. ah ah, bah oui oui oui, il y en a plein qui... qui...
+
+2:16:30
+qui font les choses. bah c'est eux qui les ont décidé. c'est eux qui faisaient les décisions. les actions sur les calorimètres là. les calorimètres détachés, les calorimètres supprimés, les calorimètres à état, les calorimètres inaccessibles,
+
+2:16:42
+pièces fermées, disparues. Nous on avait mis, nouveau, quand on repassait à la base des comptes. Ça ça n'a rien à voir avec la saisie? Oui, non, non, ici le but c'est que... Ah, c'est ce que les techniciens vous ont donné comme info? Voilà, oui.
+
+2:17:10
+Ah, c'est une autre chose. Si ici, par exemple, ce calorimètre-là, il était cassé, tu le références comme cassé ici, dans le décompte, il peut apparaître déjà comme cassé. Il peut apparaître comme cassé et du coup remplacer. C'est ça que je voulais dire par automatiser certains trucs.
+
+2:17:26
+Par exemple, quand on pêche le... Ça voudrait dire qu'en fait, le calorimètre, quand il est remplacé, nous, on pourrait déjà avoir une... Quand il est marqué comme cassé là, mais ici, il n'y a rien qui est prévu pour qu'il puisse encoter un nouveau numéro. Voilà.
+
+2:17:46
+On peut juste dire que A4, c'est cassé. C'est tout. Oui, et en fait, quand toi tu vas après, quand toi tu vas le créer, quand toi tu vas le créer là, ben là, après, il ne va pas être là. Mais en fait, il faudrait que ça nous sorte une liste avec ceux qui ont fait, et puis qu'ils soient présentés dans les cadeaux, et alors nous, on pourrait faire la modification. Mais tu vas les afficher.
+
+2:18:09
+Mais on aurait une liste, quoi. Bah, il va te les afficher ici. Dans la saisie? Ouais. Tu sais que depuis un an que je suis dessus, ben maintenant je le trouve moins beau, le truc.
+
+2:18:20
+Moins... Ouais. Il est moins sexy. Ouais. C'est une façon de dire... Tu vois, ici. Bah du coup, comme dans... Statue, bah t'aurais...
+
+2:18:38
+À remplacer. Et du coup, il te créerait déjà la ligne, quoi, tu vois. Puisque de l'autre côté, tu l'aurais déjà cassé. On l'a bien référencé. Ça veut dire que eux, ils mettraient le cassé. Il le repasse quand il est cassé, il le repasse automatiquement.
+
+2:18:50
+Quand il est état, il le repasse automatiquement. Quand il est défectué, il le repasse. De toute façon, tout ce qui est constat de leur part, voudrait dire qu'il a été repassé. Et si c'est au moment où on a fait le relevé, il faut écrire. Ça le met en nouveau automatiquement, puisqu'on sait que ce sera la date d'encodage de nos cadeaux.
+
+2:19:22
+Par contre, quand il fait un remplacement en cours d'année, vu que nous on n'encode pas le relevé à cette date-là, il faut que nous on ait la même date. En fait, il peut te proposer une pop-up à ce moment-là, quand t'arrives ici. Si il y a des statues de l'autre côté qui ont été modifiées, des actions qui ont été faites de l'autre côté, il peut te proposer une pop-up avec le calorimètre tel a été remplacé. Est-ce que tu veux... a une action d'effectueuse. Est-ce que tu veux le remplacer? Oui. Donne-moi... Donne-moi un truc. Est-ce que c'est à nouveau? Est-ce qu'on a mis à nouveau? Oui. Est-ce qu'il est remplacé? Oui. Tu vois? Tu sélectionnes, dans la pop-up, tu sélectionnes ce statut là, si tu veux.
+
+2:20:05
+Et à ce moment là, il va faire, il va retomber après sur ce schéma là, comme tu veux. J'écrirais un truc, je te montrerais. Et si t'aimes pas, on change pas. À partir du moment où il y a un code d'erreur, il apparaît toujours en orange, ça change pas mal. Ça va attirer notre attention pour... Oui, mais ça c'est comme ça, à un moment il va le venir, il y a le code, c'est ça, en cours d'année, si jamais il y a...
+
+2:20:28
+Quand il y a un technicien qui va en cours d'année, qu'il remplit sur la fiche du document, après dans le programme, la fiche à clignoter juste avant, jusqu'à là... Oui, mais si on a fait une vérif, juste une vérif en cours d'année, en mars, on fait le décompte, en décembre,
+
+2:20:43
+le programme, il ne saura pas qu'en mars, on est... Mais s'il y a quelque chose qui rentre... Donc, si on se retrouve ici, ou n'importe quel appartement, on en fiche. Voilà. Si ici il vient mettre...
+
+2:20:58
+Si ici il a changé quelque chose à un moment donné, bah lui il va l'enregistrer. Lui il enregistre la date à laquelle cette chose a été enregistrée dans le programme. Et du coup, il sait que tu vas faire ton exercice du dernier relevé à la date de l'annonce radio que tu auras de l'encontrer, il sait qu'à ce moment-là, il y a eu quelque chose qui s'est passé.
+
+2:21:20
+Ça veut dire que quand c'est... Même au BISU? Oui, d'accord, mais il pourrait l'avoir en orance. Ça veut dire que quand il l'a fait au cours de l'année et que c'est pas à la date où on encontre nous le décompte, il faudrait qu'il y a une réplique de ça, qu'il se mette pour remplacer,
+
+2:21:40
+ça crée déjà une seconde date. Si maintenant ici, aujourd'hui, je coche ça, tu vois, il va dire, lui il va enregistrer qu'en date du 17 mars, le calorimètre tel est détaché, a été signalé détaché. Donc ça veut dire... Il a été remplacé, puisqu'il a été...
+
+2:21:59
+Non, ça veut dire que tu peux apporter ça. peu importe, après toi quand tu vas arriver dans ta saisie alors à ce moment là il ne m'a pas détaché, quand il m'a détaché on pouvait dire que c'est un R80 et il m'est arrivé quand c'est cassé, c'est qu'il ne sait pas, voilà, cassé et remplacé et juste détaché il a mis un scellé, oui mais même s'il a un R80 il faut qu'il s'apparaisse en orange toi après tu vas arriver dans ta saisie, lui ce truc là comme il y a eu un signalement, il va te l'afficher d'office en orange.
+
+2:22:29
+Et il va t'afficher une pop-up qui te dira... Donc saisie... Voilà, ici, il va t'afficher une pop-up et il va te dire... Voilà, ce calorimètre là, donc ça lui il va le mettre en orange, il va t'afficher une pop-up qui te dit... Le calorimètre un tel, numéro un tel en date du truc a été signalé comme détaché que faisons nous statut tu décides de son statut et en fonction du statut que tu décides il va
+
+2:22:58
+te proposer les infos qu'il faut. C'est ce schéma là. ça me semble pas une mauvaise solution. Et tu retombes dans ton... Il me propose... Il me signale le problème. Il signale ce qu'on a fait pendant l'année, ce qui a été constaté, si jamais il y a eu des secours au rôle général pendant l'année. Et moi en fonction de ça, j'ai dit que s'il est nouveau, remplacer, s'éclumer, casser. Voilà.
+
+2:23:24
+Si tu mets nouveau, il va te demander la date. Confirme la date. Et donc moi ça veut quand même dire que, au début, quand je fais mon apport... Non, le numéro de cadeau, pardon. Si tu mets nouveau, il va te dire, ok, donnez-moi le nouveau numéro de cadeau. Si tu mets remplacer, il va dire ok, vous voulez le remplacer, donne moi une date, un numéro de nouvel index.
+
+2:23:46
+Et lui il va faire le pré-replacement. C'est pas là qu'il fait normalement les remplacements de cadeaux et des trucs comme ça. Non, non, mais on vient de changer un truc qu'on a fait. Quand il dit nouveau, ça veut dire que c'est le remplacement à la date de l'encodage. Donc à la date de clôture de décompte. Quand on a été sur place pour le relevé annuel, on s'est rendu compte qu'il y avait un cadeau défectueux, on a réussi à le remplacer.
+
+2:24:08
+Là, nous, on met nouveau. Le programme saurait automatiquement qu'on l'a fait à la date de relevé général. Il faudra qu'il nous ouvre à peu près pendant le nouveau numéro de cadeau. En théorie, ça se fera déjà rentrer. Non, il faut qu'on le fasse si... Il faut qu'on le garde d'une main sur ce qu'on va recoder pour la prochaine
+
+2:24:29
+autre. Mais en théorie c'est déjà trop tard. Pourquoi? Parce que si tu vas remplacer un calot en mars pour en relever qui se fait en théorie en mai. Mais non justement là c'est quand on remplace un calot au moment du balbut annuel. Ok mais ça c'est au retour de dossier que c'est fait normalement. Ouais mais nous c'est quand on recode dans le programme qu'on choisit la date à laquelle on fait les comptes. Oui, d'accord, mais au retour du dossier, en théorie, quand elle va recevoir tous les trucs et qu'elle va valider les dossiers, c'est à ce moment-là qu'elle va changer les numéros de calotte.
+
+2:25:00
+Logiquement, c'est elle qui devrait avoir la main sur ce changement-là. C'est elle qui doit avoir la main sur ce changement-là. Ce qui va nous embêter, c'est que quand on fait les relevés en octobre, par contre, on peut faire une recherche des années en août, là, vu que le calobrium a été considéré comme remplacé en octobre, puisque c'est à cette date-là qu'il aurait été remplacé.
+
+2:25:19
+Il faudra un peu qu'on voit comment... Alors à ce moment-là, c'est nous qui devons modifier comme status s'il a été remplacé, et si on peut considérer qu'il a été remplacé en août pour que le nouveau démarre. Donc, on va prendre un bâtiment qui revient ici avec son dossier. Tous les status sont à zéro, il passe, il n'y a pas de repassement, il n'y a rien à changer.
+
+2:25:41
+Il y a un autre bâtiment, il y a deux calots qui ne répondent pas. Ils ont eu accès à ce moment-là, ils ont noté deux numéros de calots, c'est noté sur le bon de route. Quand il revient ici en force de planning, elle modifie d'office les deux numéros. Et il devrait le modifier directement à ce moment-là. Elle va le modifier là où? Parce qu'elle ne fait pas d'encodage.
+
+2:26:02
+Elle va pas le faire dans l'insaisie. Il faut lui donner un endroit où elle va dans son truc, elle liste de machins, il faut lui donner l'accès à l'offre. En théorie, dans la planification,
+
+2:26:16
+en retour, il y avait des listes d'erreurs qui étaient faites, non? Non, mais à un moment donné, il va falloir qu'elle aille modifier les caleurs en place. Oui, le retour machin, c'était dans la partie facturation, ça. Donc ça n'a pas encore été...
+
+2:26:31
+On avait pré-démarré de savoir si c'était à replanifier, si c'était facturable ou pas facturable. Mais j'ai pas encore détaillé, j'ai juste fait... j'ai juste fait la liste des interventions qui ont été faites avec seulement les trois possibilités de cliquets, mais tu ne sais pas rentrer voir le détail encore.
+
+2:26:50
+OK, et dans la partie retour de dossier, qu'est-ce qu'on avait? Il n'y avait pas d'erreur? Il n'y avait pas de retour de dossier? Il n'y a pas de retour de dossier? Pour le coup, on avait un retour de dossier. Il n'y a pas de retour de dossier, il y a cette partie où c'est Julie qui... Oui, c'est ça le retour de dossier.
+
+2:27:06
+J'ai juste une liste où vous me dites si c'est facturable ou si c'est à planifier. Ok, ok. Mais c'est là qu'il faut détailler en fait et à mon avis je pense que là il ya beaucoup de choses à mettre dans oui et dans l'idéal c'est à ce moment là que elle va avoir le bâtiment 0021 telle adresse c'est à ce moment là qu'il devrait savoir qu'il y a pas de théâtre à l'heure il met en en a reçu 12 et il a des erreurs dans ce faire là tu parles pour les radios?
+
+2:27:37
+Je parle pour les radios, oui. Les visuels, de toute façon, il n'y a aucun moyen à part un encadrage manuel, ça c'est impossible à faire. Mais du coup, elle quand elle aurait des tours tournés avec des calorimètres qui ont été renversés, elle pourrait que dans un WC, elle modifie, elle puisse modifier les calo qui ont été renversés. Mais on est justement dans le truc retour de tournée. Ici pour le moment, elle va pouvoir cocher pour un dossier facturable, pas facturable, je ne sais plus quoi.
+
+2:28:04
+A replanifier ou un machin comme ça. Oui, et à le moment où elle doit modifier... Non, non, dans l'idée ce serait à ce moment-là... Qu'elle puisse rentrer dans chaque dossier en fait. On aurait une liste en dessous qui affiche. Donc par exemple, on fait le relevé ici,
+
+2:28:21
+il y a 21 calories mètres, on aura réussi à en capter 12 sur les 21. T'as la liste de ceux que tu n'as pas réussi à capter. Il y en avait en plus dans les 12, il y en avait 3 qui avaient des erreurs 80. Et tu as la liste qui se fait à ce moment-là. Le but c'est plus qu'elle te croise des listes où elle écrit. Oui mais alors imaginons que... C'est qu'elle corrige les erreurs alors. Imaginons que pendant l'année on y va pour voir une vérification de calories.
+
+2:28:43
+Mais à ce moment-là si Salva a eu accès, je parle de Salva, c'est la seule qui va prendre le temps d'avoir accès à un appartement pour modifier de calorimètre elle peut cliquer sur les calorimètres qu'elle a modifié et hop elle peut montrer le numéro et au cours de l'année même chose que l'opération ça va créer un nouveau temps donc ça veut dire que moi quand je vais faire des comptes enfin ou quand on va faire des comptes il y aura déjà la date de remplacement du cadeau, oui. Si c'est au moment du relevé général,
+
+2:29:19
+ça sera considéré comme nouveau. Si c'est au cours d'année, ça sera considéré comme remplacé. Et si c'est suppression, que ce soit au relevé général ou au cours d'année, ça sera considéré comme supprimé. Donc ça c'est nous qui allons le choisir en fonction de la date de désaccès. Parce que du coup, quand elle aura encodé quelque chose au cours d'année. Mais supprimer ou remplacer, il va falloir... Et ça, ce serait une opération manuelle dans tous les cas. De nous.
+
+2:29:45
+Oui. Donc elle, elle aura noté une date de remplacement. Un nouveau numéro de calot. Un nouveau numéro de calot. En fait, tu te laisses l'information que tu dois encoder là, sauf l'index. Ça sera fait en codé.
+
+2:29:55
+Ça sera bien fait en codé par elle. Elle l'aura fait. Si jamais il y a un truc à modifier, on va le modifier. Mais il nous demanderait une validation par rapport à ce qui a été fait au cours d'année. Ouais, de toute façon il te le soulignera, il te soulignera le caloric, il te soulignera le calorimeter, celui là et celui là il te le mettra en orange, il te dira, et si le message est en orange, ça voudra dire que celui là il y a eu un truc et il est remplacé par un autre qu'on mettra en jaune, celui qui le remplace sera mis en jaune. Si c'est au cours
+
+2:30:21
+d'année? Même tout le temps. Si c'est à la date de relevé annuel, il ne faut pas qu'il s'affiche dans le relevé. Non, mais il ne s'affichera pas. C'est pas parce qu'il est affiché là qu'il va forcément apparaître dans le décompte. Il y a des données qu'on peut déjà prendre, stocker, mais qu'on n'est pas obligé de faire apparaître dans le décompte. Le mieux qu'on peut c'est pas qu'elles apparaissent dans une période pour laquelle on a un code à relever, s'ils ne correspondent pas à cette période-là. On ne veut pas, si jamais un talois a été remplacé, ou autre en doute, qu'il apparaisse dans la clôture au 30 août. On veut qu'il apparaisse seulement lorsqu'il est année suivante. Oui c'est tout à fait possible, c'est pas parce qu'il est affiché... Mais nous on ne veut pas qu'il soit affiché là. Mais non, on ne veut pas...
+
+2:31:04
+Eh Sabine, quand un calot est remplacé au 30 août 2024 et qu'on clôture au 30 août 2024, pour nous dans la saisie, il ne faut pas qu'il soit affiché, il faut qu'il s'affiche uniquement l'année suivante. Même que ce soit pour nous. Pour nous, on s'en fout. Ça va perturber tout le monde qu'il y ait des calots qui s'affichent dans des dates de saisie ou pour des périodes de saisie. Mais non, parce que quand tu vas passer ta souris dessus, tu vas voir déjà qu'il va être en jaune. Et tu vas voir que c'est un tel qui remplace un tel. Autre en tout.
+
+2:31:34
+Ça veut dire perdu. Mais il ne sera pas dans le décompte. Mais par contre il sera affiché dans la saisie que nous on voit du 1er septembre 2023 au 30 août 2023, le caloïd sera passé au 30 août, nous il s'affichera déjà au jaune. Il n'est que si tu veux avoir la main sur... Elle, elle corrige un truc. Si toi, tu veux avoir la main parce que tu te dis, bah ouais, mais non, en fait, quand
+
+2:32:08
+tu l'as, ouais, OK, il faut peut-être pas qu'il apparaisse, mais il faut pas que toi... Il faut que t'aies accès. Mais oui, mais il n'apparaîtra pas, sauf que il y aura celui qui a été remplacé. Pas des SAGE qu'on devra valider quand on fait les comptes à la date à laquelle le cadeau a été remplacé. Quand on passera dans la saisie ou dans l'appartement, pour les calots
+
+2:32:28
+où il y a eu quelque chose, par exemple, on l'a mis remplacé, elle a encodé le nouveau numéro de calot, vu que nous, enfin on aura encodé le nouveau parce qu'il a été remplacé à la date de relevé général, on aura un message pour celui qui a été supprimé et qui a été remplacé à la date de relevé général, on aura un message où on nous demandera la confirmation avec le nouveau numéro de calot que celui-là avait été remplacé à cette date là.
+
+2:32:50
+Pour en plus le valider. Ouais en fait elle, elle peut juste avoir le nouveau numéro, tu vois, elle encode juste le nouveau numéro et lui quand il va corriger son statut, quand il va changer son statut,
+
+2:33:02
+il va dire le calorimètre endommagé il sera affiché en jaune, il va choisir le statut de ce calorimètre là endommagé et à ce moment là il lui dira voilà ce numéro de calorimètre c'est celui-là,
+
+2:33:14
+on le met à quelle date, par rapport à ce qu'il coche, il dira, ok, le nouveau numéro de CaloriMet est le numéro 1 tel, et il sera valide à partir de l'année prochaine, parce qu'il a mis statut nouveau. Si tu mets statut remplacé, il va lui dire, ok, voilà ce qu'elle a encodé, tel numéro, telle date, est-ce que c'est pas Julie qui met le nouveau numéro. C'est ce qu'elle a fait.
+
+2:33:42
+Alors il a pas pouvoir commencer à me crasser à chupot. Il veut avoir eu tout pour en mettre au ciel. Si Julie te dit qu'elle aurait pu être cassée et remplacée,
+
+2:33:50
+je vois pas pourquoi tu veux venir mettre, qu'elle aurait pu mettre des faits du chupot. En fait, il suffit juste de donner comme instruction, il suffit juste de donner comme instruction à Julie de dire, ok, si c'est à la date de l'événement que tu regardes, c'est un relevé général, et qu'il y a un calorimètre qui a été étruc, la date elle va s'afficher, elle va s'afficher toute seule.
+
+2:34:23
+Elle, ça veut dire qu'elle va recevoir un retour évolué aussi. Ça veut dire qu'on ne fait pas ça au moment où on fait le décompte. On fait ça au moment où on fait le décompte. Non. C'est nouveau. C'est nouveau au moment où on fait le décompte général.
+
+2:34:36
+Non, c'est au moment où les dossiers reviennent de... Au moment où elle ne le fait pas. Non, oui. Elle va pas avoir le choix. De toute façon, moi ce que je me dis, c'est que si elle ne le fait pas et qu'on a tort, effectivement, le relevé annuel pour modifier, nous, les numéros de cadeaux qui ont été remplacés
+
+2:34:48
+à la date où on veut faire le décompte, mais par contre il y a 3 ans on n'a plus fait de décompte. Si jamais c'est dans l'SDC qui va nous rechercher le numéro de calot, parce que du coup c'est ça qu'ils veulent... Si c'est dans le programme qui veut nous rechercher le numéro de calot pour qu'on fasse aller-route pour savoir ce qui doit être enlevé au moment de l'année suivante,
+
+2:35:03
+et qu'on n'a plus fait de décompte depuis 3 ans, on va être beau aussi de la modifier, on n'a pas fait ça. Mais c'est pour ça que c'est au tour de tourner que... Mais donc ça veut dire que quand elle reçoit la tournée, elle a un numéro de calot dans un appartement qui a été repassé à cette date là, elle le dit, par contre on a créé un recode dans les saisies, elle ne fait pas l'encodage des saisies. Non, c'est en mettant la date, vous aurez l'encodage.
+
+2:35:24
+Et alors nous quand on met la date, on sait ce qui s'est passé pour la date. Voilà, oui. Et alors à ce moment là, nous on peut le valider, ou alors c'est le vieux recodé, mais ou alors on le valide. Si elle par exemple, elle est à un endroit où dans l'intervention, il y a le technicien qui a noté qu'il avait fait ça, ça, ça, ça, ça, elle met, ok, ben, cet endroit-là, il était cassé, il était remplacé à telle date, cet endroit-là, il était défectueux ou cet endroit-là, il était éteint, ça n'encode encore rien dans les saisies, mais nous, quand on encode une saisie, pour la période où on fait la saisie, il faut que, quand on passe dans l'appartement, on ait des messages sur chaque calorimètre où il s'est passé quelque chose
+
+2:35:56
+et qui a été encodé par Julie pour la période pour laquelle on fait le décontenté. Alors, nous, on valide, en Nokodo, enfin où... En fait c'est pas plus mal, Julien, si je peux me permettre, je trouve que c'est pas plus mal qu'ils aient quand même accès à cette identification de statut, parce que ça fait une double vérification. Oui on est d'accord, ils peuvent avoir accès, mais je vois pas pourquoi à partir du moment où elle met remplacer on est obligé de remettre quelque chose qui a une information mais on va pas remettre la validation on va la valider ou la valider c'est exactement ce que je dis quand elle a
+
+2:36:37
+encodé une situation oui mais donc en fait le truc c'est que elle est dans le je veux dire, elle modifie, elle le modifie. Donc, par exemple, j'ai un ventre, tu as... Non, tu peux laisser, ça ne nous dérange pas. Admettons, le calorimètre qui se termine par 78 est cassé. Oui.
+
+2:37:04
+Elle, elle le reçoit là en retour, on voit que ça identifie qu'il y a eu une erreur, ce calorimètre-là est cassé, elle le modifie, elle a les données du nouveau calorimètre, elle en colle. Mais ça, ça encoudra les... ça c'est bien. Mais quand c'est au moment du rôle général... Bah si c'est au moment du rôle général, elle va... Elle va le faire aussi.
+
+2:37:23
+Oui, mais elle doit pas apparaître dans les dossiers. Non, mais elle doit pas apparaître. Comment ça se fera? La date de remplacement est la même que la date de clôture. Donc il faut qu'il y ait un numéro pour ce... là. Il ne te fera apparaître que dans la saisie pour la période que tu veux faire du 1er septembre au 30 août,
+
+2:37:40
+ce qui a été fait pendant cette période-là. Et il te mettra, si c'est la date du 30 août, il te proposera, quand tu te passeras dans l'appartement, il te dira que vu que c'est au 30 août et que toi tu as fait ton encodage au 30 août, il te demandera le nouveau numéro de calo pour l'année suivante, ça tu sais. Ou alors il te proposera ce qu'il a emprunté comme nouveau numéro de calo. Il va lui dire voilà il y a ce numéro, ce calorimètre là qui a été remplacé par ce calorimètre là à telle date est-ce que vous validez? oui? non? si tu dis non après là tu
+
+2:38:15
+retombes dans ce schéma là, tu retombes ici et tu peux remodifier toi même et refaire ton adaptation. Tu peux remettre aucun si elle s'est trompée, tu peux remettre nouveau si elle a mis remplacé et que c'était à nouveau parce que c'est à la date de relevé général et que c'était pas pendant l'année. Tu peux modifier le numéro de calo qui a été remis à la place de l'ancien si jamais c'est trompé dans un numéro. On refait une dernière vérification. Et alors si c'est... Si on met nouveau, c'est pour l'année après. Si on met nouveau, il y a que la ligne du
+
+2:38:39
+calorimètre remplacé qui apparaît avec la consommation pour la période jusqu'au 38, jusqu'à la clôture, puisque c'est à cette date là qu'il a été remplacé. Et vu que t'as mis nouveau, il t'a demandé le nouveau numéro de calo qui s'affichera l'année prochaine pour faire le relevé. Donc on est bien d'accord que si l'intervention relevé générale est aujourd'hui 17 mars et qu'on a remplacé à Calo, Calo va remplacer pour tel numéro et que c'est aujourd'hui c'est une date de clôture puisque c'est un relevé général.
+
+2:39:11
+Donc quand toi tu vas encoder ton asthésie, tu vas mettre 17 du 3-25. Il n'y aura que Blancet et Calot, qui a été remplacé au 17 mars. Maintenant, attention quand on va faire un relevé et qu'on va faire le relevé le 27 du 12, c'est que la clôture doit être le 31 du 12. Tout ce qui est relevé en sociaux, c'est ça que je disais, à partir du moment où on veut... Alors ce qu'on fait, ce qu'on peut faire dans un premier temps,
+
+2:39:42
+c'est qu'on encode à la date du relevé général, du relevé réel, et puis on remodifie la date comme on peut faire avec F7. On encode la date du F12, alors tu fais F7 et tu remodifies. Mais c'est quand tu dis tu fais F7... Oui, mais non, c'est pour qu'ils comprennent. En fait, tu encoderais tes relevés à la date à laquelle ils ont été réellement relevés,
+
+2:40:11
+sauf que dans ce qui apparaît dans le programme, sur le décompte, tu remodifies juste la date. Et toutes les infos que tu as pour la date pour laquelle tu viens de remodifier la date, sont les infos du 27 juillet, mais elles apparaissent au 30 juillet. Non, je réfléchis à comment est-ce qu'on peut... Pour moi, il faut une date de génération du décompte.
+
+2:40:41
+Ou 100 dates affichées sur le décompte. Moi, je ne jouerai même pas avec ça. Je ne jouerai même pas avec cette date-là. Pour ce problème de remplacement de calorimètre, moi, je ne chipoterai pas. Je ferai un truc beaucoup plus simple que ça elle elle constate qu'il y a une erreur elle remplace elle met le numéro de calot. parce que là on est en train de se ficher avec les dates en fait. elle met le numéro de calot et puis c'est tout elle valide le nouveau calot c'est d'avoir le plus d'intro dans le programme.
+
+2:41:17
+Oui, mais le truc c'est pas d'avoir la plus d'intro. Elle met la date de l'intervention, dans la date de l'intervention, le calorimètre a été remplacé. Oui. Oui, oui. Si c'est en cours d'année, ben de toute façon t'auras une date. Si c'est au moment de taux des comptes, t'as une date.
+
+2:41:33
+Oui, d'accord. Ici, quand lui il reçoit son truc, le calorimètre endommagé se met en jaune, on lui met un petit bouton, il clique sur le calorimètre en jaune, au moment où il clique sur le calorimètre en jaune, il y a la pop-up qui apparaît avec un short le numéro du calorimètre, un short la date, voilà ce calorimètre là est endommagé il a été remplacé par Julie, le nouveau numéro de Calorimet, la date, est-ce que vous validez, est-ce que tu veux changer, tu peux changer la date, tu valides et voilà. Mais nous si on a fait le relevé le 27 du 12 et qu'on veut que les relever apparaissent au 31 du 12, tu vas faire l'encodage au 31 du 12? Mais non, toi ici, là ici tu vas mettre 31 du 12 dans ta saisie, même si c'est le 27 que ça a été fait, toi tu sais que tu veux une saisie au 31 du 12 on va faire ta saisie au 31 du 12
+
+2:42:32
+le remède qui arrive c'est qu'il faut repasser 4 jours à l'avance il apparaît dans le 31 du 12? non il apparaîtra pas puisqu'on va te demander de mettre la date et tu le mettrais au 31 du 12 alors? bah ouais, tu réécris la date et pour tous les autres cas, quand tu veux faire un encodage, imaginons que nous
+
+2:42:49
+parce que tu veux que les encodages se fassent automatiquement. Donc toi tu mets 27-12 parce que le relevé a été fait à ce moment là. Sauf que nous dans le décompte on veut que ça apparaisse au 30-12. Lui il va afficher le relevé, le dernier relevé en date qu'il aura. Et on pourra modifier la date si on veut. Non.
+
+2:43:05
+Le relevé en date qu'il aura le plus proche à la date voulue. Ouais. Pas le dernier relevé qu'il a. Non, en radio, il va afficher si on doit faire un retour, toi tu mets 31 du 12 2025 ici ou 2024, 31 du 12 il est censé avoir été relevé au mois de décembre
+
+2:43:45
+non il peut avoir été relevé avant il y a des fausses élevates oui oui mais dans le courant du mois de décembre oui oui mais on va être à 15 jours pas toujours oui 15 jours plus tôt qu'un jour plus tard oui si c'est 15 jours plus tard si c'est 15 jours plus tard vu qu'on a un historique alors à ce moment là on prend pas le relevé après
+
+2:44:02
+on prend le historique du dernier jour du mois avant puisque si jamais on veut faire un relevé, imagine on a fait le relevé le 20 décembre, on veut que la clôture apparaisse au 31 puisque les genres sont là on prend les index du 20 décembre mais on les encode au 31 décembre si par contre on a fait le relevé le 10 janvier on prend pas les index du 10 janvier pour le 31 décembre on prend l'historique du 31 décembre puisqu'on a levé le calendrier.
+
+2:44:22
+Donc on a un historique avant dans le sens où on l'a fait avant, on a pas encore les années... Non mais peu importe, lui il va regarder par rapport à la date de ta saisie. Donc si tu mets 31 décembre, lui il va regarder les relevés, le dernier relevé que tu as dans ce courant du mois de décembre. Ok. Et si jamais tu mets 31 décembre mais que t'as un relevé en janvier, après les années... Ben non, puisque on doit lui dire de regarder les trucs en décembre. Oui.
+
+2:44:51
+Donc on va lui dire, si tu mets la date de saisie du mois, on va lui dire de regarder la dernière saisie avant cette date là. Pas d'accord Julien. Ben, si je vous demande le 31 décembre, il faut le relever le 4 janvier.......
+
+2:45:10
+... La plus proche avant la date du décompte. De toute façon c'est jamais après. On fait pas le décompte et on met pas le code d'âge après la date du décompte. Si c'est après je m'en fous on a l'historique. Donc on aura le 31 du 12. Si on va faire le relevé le 4 janvier, on aura la date le 31 du 12.
+
+2:45:59
+Qui n'aura pas beaucoup changé mais il sera présent dans la base de données voilà. Oui parce qu'il relève les 15 derniers jours c'est ça que tu veux dire il te fournit les 15 derniers jours de relève. Oui les 15 derniers mois Oui donc tu auras les 15 derniers jours. Oui, le 31 et le 12 ou le 21, je ne sais pas comment on le voit mais oui...
+
+2:46:37
+le visible ici c'est peut-être pas forcément pour les calottes, c'est peut-être plutôt pour le gros bordeau pour le fait c'est quand tu n'as pas forcément de... mais ça ce sont des statues que tu dois avoir toi mais comme elle elle va devoir le faire comme c'est elle qui va devoir le faire Le menu il faudrait qu'on puisse modifier si jamais il faut modifier. Tu vois si on peut valider un statut, il faut qu'on puisse le changer si on ne le valide pas. Les statuts il faut quand même qu'on puisse avoir mainvise dessus.
+
+2:47:06
+Ok. Du coup? Ben du coup quand... Il y a la ligne or jaune parce qu'il y a quelque chose sur la nez, il faut qu'on puisse valider ce qu'elle a mis, mais il faut aussi qu'on puisse le modifier. Tu auras la pop-up avec toutes les mêmes choses qu'elle en fait. Tu peux modifier avec la date, le numéro de cadeau.
+
+2:47:48
+Pour les cadeaux il nous faut nouveau remplacer, absorber, casser, défectuer, illisible pour le faire supprimer. Peut-être pas illisible, parce que pour les cadeaux c'est pas souvent... Moi je le mettrais quand même. Je mettrais le bord des... Alors pour les statuts des compteurs d'eau c'est même chose qu'à l'écalote sauf qu'il doit y avoir un compteur en vert à l'envers, c'est des fois quand ton compteur est à l'envers plutôt que de compter de 0 à 99000 et donc à ce moment là tu peux encoder un index négatif quand tu pars à l'envers ton compteur
+
+2:48:14
+en fait il est à 100000 quand tu repars à l'envers il part à 99999 donc si l'index de l'année précédente c'est à 99999 et que l'index de cette année c'est à 99990, l'index est négatif. Il doit pas présenter une erreur parce que c'est normal. Il doit pas présenter une erreur parce qu'il a mis un statut. Et alors ce statut là il doit rester définitif. Il doit aussi y avoir bloqué, les KOS sont pas bloqués mais les compteurs d'OBA. Et pour les deux, il faut qu'on puisse revenir à lequel c'est. Ouais.
+
+2:48:52
+Voilà. Je crois que c'était pas mal. Si t'arrives à réaliser, excusez-moi, c'est Sabine qui l'a écrit mal, je suis désolé. Oui, je suis désolée, c'était pas mal. J'ai pu le retarder. Ça va.
+
+2:49:04
+Faire des photos. On fait toujours ça dans le courant des... Ben, je peux le piscarner donne le on va voir ça fait je vais voir
+
+2:49:20
+c'est ça tu commences seulement toi je vais pas encore voir piscarner c'est déjà une heure et demie moi... il a fait toutes ses modifications pour jeudi
+
+2:50:05
+Mais que l'a dit? Déjà l'a dit.
+
+
+
+
+Transcribed with Cockatoo

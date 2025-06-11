@@ -1,0 +1,118 @@
+.detail-chauffage {
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+
+   
+    .section-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+    }
+
+    .section-title {
+        color: #2c3e50;
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin-bottom: 1.5rem;
+        padding-bottom: 0.75rem;
+        border-bottom: 2px solid #e9ecef;
+    }
+
+    // .section-title {
+    //     color: #2c3e50;
+    //     font-size: 1.5rem;
+    //     font-weight: 600;
+    //     margin: 0;
+    // }
+
+    .form-group {
+        margin-bottom: 1.25rem;
+
+        label {
+            color: #495057;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+        }
+
+        .form-control {
+            border: 1px solid #ced4da;
+            border-radius: 6px;
+            padding: 0.5rem 0.75rem;
+            transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+            &:focus {
+                border-color: #80bdff;
+                box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+            }
+
+            &:disabled {
+                background-color: #e9ecef;
+                cursor: not-allowed;
+            }
+        }
+    }
+
+    .radio-group {
+        display: flex;
+        gap: 2rem;
+        margin-bottom: 1.5rem;
+
+        .form-check {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+
+            input[type="radio"] {
+                width: 1.2rem;
+                height: 1.2rem;
+            }
+
+            label {
+                margin-bottom: 0;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .percentage-section,
+    .amount-section {
+        background: #f8f9fa;
+        border-radius: 6px;
+        padding: 1.25rem;
+        margin-bottom: 1.5rem;
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+    }
+
+    .btn {
+        padding: 0.5rem 1.25rem;
+        border-radius: 6px;
+        font-weight: 500;
+        transition: all 0.2s ease-in-out;
+
+        &.btn-primary {
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+
+            &:hover {
+                background-color: #0b5ed7;
+                border-color: #0a58ca;
+            }
+        }
+    }
+
+    .alert {
+        border-radius: 6px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+}
