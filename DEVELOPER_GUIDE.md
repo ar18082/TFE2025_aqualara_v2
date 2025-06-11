@@ -44,12 +44,19 @@ AquaLara suit une architecture MVC (Modèle-Vue-Contrôleur) avec une séparatio
 ```php
 namespace App\Http\Controllers;
 
-class BassinController extends Controller
+class ClientController extends Controller
 {
     public function index()
-    public function store(BassinRequest $request)
-    public function update(BassinRequest $request, Bassin $bassin)
-    public function destroy(Bassin $bassin)
+    public function store(ClientRequest $request)
+    public function update(ClientRequest $request, Client $client)
+    public function destroy(Client $client)
+}
+
+class ReleveController extends Controller
+{
+    public function store(ReleveRequest $request)
+    public function generateDecompte(Request $request)
+    public function exportPDF(Releve $releve)
 }
 ```
 
@@ -57,31 +64,49 @@ class BassinController extends Controller
 ```php
 namespace App\Models;
 
-class Bassin extends Model
+class Client extends Model
 {
     protected $fillable = [
         'nom',
-        'volume',
-        'type_poisson',
-        'type_plante',
+        'prenom',
+        'email',
+        'telephone',
+        'adresse',
     ];
 
     // Relations
-    public function parametres()
-    public function alertes()
-    public function taches()
+    public function appartements()
+    public function releves()
+    public function decomptes()
 }
-```
 
-#### Services
-```php
-namespace App\Services;
-
-class BassinService
+class Appartement extends Model
 {
-    public function createBassin(array $data)
-    public function updateParametres(Bassin $bassin, array $parametres)
-    public function generateRapport(Bassin $bassin, $dateDebut, $dateFin)
+    protected $fillable = [
+        'numero',
+        'etage',
+        'surface',
+        'client_id',
+    ];
+
+    // Relations
+    public function client()
+    public function releves()
+    public function provisions()
+}
+
+class Releve extends Model
+{
+    protected $fillable = [
+        'type', // eau_chaude, eau_froide, chauffage
+        'valeur',
+        'date_releve',
+        'appartement_id',
+    ];
+
+    // Relations
+    public function appartement()
+    public function decompte()
 }
 ```
 
@@ -90,85 +115,85 @@ class BassinService
 ### Schéma
 
 ```sql
--- Principaux tables et relations
-CREATE TABLE bassins (
+-- Tables principales
+CREATE TABLE clients (
     id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     nom VARCHAR(255) NOT NULL,
-    volume DECIMAL(10,2) NOT NULL,
-    type_poisson VARCHAR(255),
-    type_plante VARCHAR(255),
+    prenom VARCHAR(255) NOT NULL,
+    email VARCHAR(255),
+    telephone VARCHAR(20),
+    adresse TEXT,
     created_at TIMESTAMP,
     updated_at TIMESTAMP
 );
 
-CREATE TABLE parametres (
+CREATE TABLE appartements (
     id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-    bassin_id BIGINT UNSIGNED,
-    type VARCHAR(50) NOT NULL,
-    valeur DECIMAL(10,2) NOT NULL,
-    date_mesure TIMESTAMP,
-    FOREIGN KEY (bassin_id) REFERENCES bassins(id)
+    numero VARCHAR(10) NOT NULL,
+    etage VARCHAR(10),
+    surface DECIMAL(8,2),
+    client_id BIGINT UNSIGNED,
+    created_at TIMESTAMP,
+    updated_at TIMESTAMP,
+    FOREIGN KEY (client_id) REFERENCES clients(id)
 );
-```
 
-### Migrations
+CREATE TABLE releves (
+    id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    type ENUM('eau_chaude', 'eau_froide', 'chauffage'),
+    valeur DECIMAL(10,2) NOT NULL,
+    date_releve DATE NOT NULL,
+    appartement_id BIGINT UNSIGNED,
+    created_at TIMESTAMP,
+    updated_at TIMESTAMP,
+    FOREIGN KEY (appartement_id) REFERENCES appartements(id)
+);
 
-Les migrations sont dans `database/migrations/`:
-```php
-public function up()
-{
-    Schema::create('bassins', function (Blueprint $table) {
-        $table->id();
-        $table->string('nom');
-        $table->decimal('volume', 10, 2);
-        $table->string('type_poisson')->nullable();
-        $table->string('type_plante')->nullable();
-        $table->timestamps();
-    });
-}
+CREATE TABLE decomptes (
+    id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    date_debut DATE NOT NULL,
+    date_fin DATE NOT NULL,
+    montant_total DECIMAL(10,2),
+    statut ENUM('brouillon', 'valide', 'cloture'),
+    appartement_id BIGINT UNSIGNED,
+    created_at TIMESTAMP,
+    updated_at TIMESTAMP,
+    FOREIGN KEY (appartement_id) REFERENCES appartements(id)
+);
 ```
 
 ## API
 
 ### Points d'entrée REST
 
-#### Bassins
-- GET /api/bassins
-- POST /api/bassins
-- GET /api/bassins/{id}
-- PUT /api/bassins/{id}
-- DELETE /api/bassins/{id}
+#### Clients
+- GET /api/clients
+- POST /api/clients
+- GET /api/clients/{id}
+- PUT /api/clients/{id}
+- DELETE /api/clients/{id}
 
-#### Paramètres
-- GET /api/bassins/{id}/parametres
-- POST /api/parametres
-- GET /api/parametres/{id}
-
-### Authentification
-
-Utilisation de Laravel Sanctum pour l'authentification API :
-
-```php
-Route::middleware('auth:sanctum')->group(function () {
-    Route::apiResource('bassins', BassinController::class);
-    Route::apiResource('parametres', ParametreController::class);
-});
-```
+#### Relevés
+- GET /api/releves
+- POST /api/releves
+- GET /api/appartements/{id}/releves
+- POST /api/releves/decompte
+- GET /api/releves/{id}/pdf
 
 ### Validation
 
 ```php
 namespace App\Http\Requests;
 
-class BassinRequest extends FormRequest
+class ReleveRequest extends FormRequest
 {
     public function rules()
     {
         return [
-            'nom' => 'required|string|max:255',
-            'volume' => 'required|numeric|min:0',
-            'type_poisson' => 'nullable|string|max:255',
-            'type_plante' => 'nullable|string|max:255',
+            'type' => 'required|in:eau_chaude,eau_froide,chauffage',
+            'valeur' => 'required|numeric|min:0',
+            'date_releve' => 'required|date',
+            'appartement_id' => 'required|exists:appartements,id',
         ];
     }
 }
@@ -181,11 +206,11 @@ class BassinRequest extends FormRequest
 ```php
 namespace Tests\Unit;
 
-class BassinTest extends TestCase
+class ReleveTest extends TestCase
 {
-    public function test_can_create_bassin()
-    public function test_can_update_bassin()
-    public function test_can_delete_bassin()
+    public function test_can_create_releve()
+    public function test_can_generate_decompte()
+    public function test_can_export_pdf()
 }
 ```
 
@@ -194,25 +219,11 @@ class BassinTest extends TestCase
 ```php
 namespace Tests\Feature;
 
-class BassinControllerTest extends TestCase
+class ReleveControllerTest extends TestCase
 {
-    public function test_index_returns_bassins_list()
-    public function test_store_creates_new_bassin()
-    public function test_update_modifies_bassin()
-}
-```
-
-### Tests de bout en bout (E2E)
-
-Utilisation de Laravel Dusk pour les tests E2E :
-
-```php
-namespace Tests\Browser;
-
-class BassinTest extends DuskTestCase
-{
-    public function test_user_can_create_bassin()
-    public function test_user_can_view_bassin_details()
+    public function test_store_creates_new_releve()
+    public function test_generate_decompte_works()
+    public function test_export_pdf_works()
 }
 ```
 
